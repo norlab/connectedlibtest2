@@ -142,6 +142,7 @@ a:focus {
 	/* color: #e81e25; */
 	color: #730bdb; /* light purple */
 	background-color: transparent;
+	text-decoration: underline;
 }
 
 .navbar-default {
@@ -161,8 +162,10 @@ a:focus {
 
 .btn-theme {
   color: #fff;
-  background-color: black;
-  border-color: black;
+  /* background-color: black;
+  border-color: black; */
+  background-color: #510076; /* dark purple */
+  border-color: #510076; /* dark purple */
   margin: 4px;
 }
 .btn-theme:hover,
@@ -171,8 +174,10 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: #e81e25;
-  border-color: #e81e25;
+  /* background-color: #e81e25;
+  border-color: #e81e25; */
+  background-color: #730bdb; /* light purple */
+  border-color: #730bdb; /* light purple */
 }
 
 .btn2-theme {
@@ -400,7 +405,7 @@ a:focus {
 #footerwrap {
 	padding-top: 30px;
 	padding-bottom: 30px;
-	background: black;
+	background: #e7dfee; /* light grayish purple */
 }
 
 #footerwrap p {
