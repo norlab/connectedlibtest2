@@ -15,7 +15,7 @@
     <!-- Custom styles for this template -->
     <link href="{{ "/assets/css/main.css" | prepend: site.baseurl }}" rel="stylesheet">
     <link href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     
     <!-- Custom CSS -->
     <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">-->
@@ -34,6 +34,21 @@
      <link href="{{ "/assets/css/style.css" | prepend: site.baseurl }}" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
     <script src="{{ "/assets/js/template.js" | prepend: site.baseurl }}" type="text/javascript" charset="utf-8"></script>
+    
+    <script type="text/javascript">
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+    var myDropdown = document.getElementById("myDropdown");
+      if (myDropdown.classList.contains('show')) {
+        myDropdown.classList.remove('show');
+      }
+  }
+}
+</script>
   
     
 </head>
