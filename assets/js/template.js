@@ -106,16 +106,16 @@ function navigate(hash){
     }
   }
 
-  // If there's a step number in the hash, we'll show that step.
-  // Otherwise, we'll default to the overview.
-  // if(overview) {
-//    hash = "#overview";
- //   $("section.overview").show();
-//    $("body").attr("mode","overview");
- // } else {
-//    $(".agenda > li:nth-child("+step+")").show();
-//    $("body").attr("mode","step");
-//  }
+ // If there's a step number in the hash, we'll show that step.
+ //  Otherwise, we'll default to the overview.
+  if(overview) {
+  hash = "";
+    $("section.overview").show();
+    $("body").attr("mode","overview");
+  } else {
+    $(".agenda > li:nth-child("+step+")").show();
+    $("body").attr("mode","step");
+  }
 
   // Add the selected class to the activity navigation link.
   navEl.find(".selected").removeClass("selected");
