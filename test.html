@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset=utf-8 />
+    <title>JS Bin</title>
+
+  <style>
+    a.current {
+        color: orange !important;
+    }
+</style>
+<script>
+    $(function () {
+        $('a').each(function () {
+            if ($(this).prop('href') == window.location.href) {
+                $(this).addClass('current');
+            }
+        });
+    });
+</script>
+
+  </head>
+  <body>
+
+
+<a href="test.html">test.html</a>
+<a href="http://infobyway.github.io/connectedlibtest2/test.html">LINK 2</a>
+
+  </body>
+</html>
