@@ -90,42 +90,42 @@ function buildActivityMenu(title, activities){
 }
 
 
-function navigate(hash){
+// function navigate(hash){
   // First, we'll hide all of the conten
-  $(".agenda > li").hide();
-  $("section.overview").hide();
+//   $(".agenda > li").hide();
+//   $("section.overview").hide();
 
   // Next, we'll try to figure out what step to show based on the hash.
-  hash = hash.toLowerCase();
-  var numberOfSteps = $(".agenda > li").length;
-  var overview = true;
-  if(hash.indexOf("step") > 0) {
-    var step = hash.replace("#step-","");
-    if(step <= numberOfSteps){
-      overview = false;
-    }
-  }
+  // hash = hash.toLowerCase();
+ //  var numberOfSteps = $(".agenda > li").length;
+  // var overview = true;
+  // if(hash.indexOf("step") > 0) {
+ //    var step = hash.replace("#step-","");
+ //   if(step <= numberOfSteps){
+//       overview = false;
+//     }
+//   }
 
   // If there's a step number in the hash, we'll show that step.
   // Otherwise, we'll default to the overview.
-  if(overview) {
-    hash = "#overview";
-    $("section.overview").show();
-    $("body").attr("mode","overview");
-  } else {
-    $(".agenda > li:nth-child("+step+")").show();
-    $("body").attr("mode","step");
-  }
+//   if(overview) {
+//     hash = "#overview";
+//     $("section.overview").show();
+//     $("body").attr("mode","overview");
+//   } else {
+//     $(".agenda > li:nth-child("+step+")").show();
+//     $("body").attr("mode","step");
+v  }
 
   // Add the selected class to the activity navigation link.
-  navEl.find(".selected").removeClass("selected");
-  navEl.find("a[href="+hash+"]").parent().addClass("selected");
+  // navEl.find(".selected").removeClass("selected");
+  // navEl.find("a[href="+hash+"]").parent().addClass("selected");
 
   // Scroll the page to the top
-  $(window).scrollTop(0);
+  // $(window).scrollTop(0);
 
-  window.location.hash = hash;
-}
+  // window.location.hash = hash;
+// }
 
 function scroll(){
   var scrolled = $(window).scrollTop();
