@@ -1,6 +1,7 @@
 ---
 layout: introduction
 permalink: /introduction/
+section: overview
 ---
 
 # Overview of the Introduction to Connected Learning
