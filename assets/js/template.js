@@ -110,8 +110,8 @@ function navigate(hash){
   // Otherwise, we'll default to the overview.
   if(overview) {
     hash = "#overview";
-    $("section.overview").show();
-    $("body").attr("mode","overview");
+ //   $("section.overview").show();
+ //   $("body").attr("mode","overview");
   } else {
     $(".agenda > li:nth-child("+step+")").show();
     $("body").attr("mode","step");
