@@ -33,22 +33,9 @@
    
      <link href="{{ "/assets/css/style.css" | prepend: site.baseurl }}" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
-    <script src="{{ "/assets/js/template.js" | prepend: site.baseurl }}" type="text/javascript" charset="utf-8"></script>
-    
-    <script type="text/javascript">
-function myFunction() {
-    document.getElementById("myDropdown").classList.toggle("show");
-}
+<!--    <script src="{{ "/assets/js/template.js" | prepend: site.baseurl }}" type="text/javascript" charset="utf-8"></script>-->
+      <script src="{{ "/assets/js/dropdown.js" | prepend: site.baseurl }}" type="text/javascript" charset="utf-8"></script>  
 
-window.onclick = function(e) {
-  if (!e.target.matches('.dropbtn')) {
-    var myDropdown = document.getElementById("myDropdown");
-      if (myDropdown.classList.contains('show')) {
-        myDropdown.classList.remove('show');
-      }
-  }
-}
-</script>
   
     
 </head>
