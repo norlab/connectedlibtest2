@@ -106,10 +106,10 @@ function navigate(hash){
     }
   }
 
- // If there's a step number in the hash, we'll show that step.
- //  Otherwise, we'll default to the overview.
+  // If there's a step number in the hash, we'll show that step.
+  // Otherwise, we'll default to the overview.
   if(overview) {
-  hash = "#overview";
+    hash = "#overview";
     $("section.overview").show();
     $("body").attr("mode","overview");
   } else {
