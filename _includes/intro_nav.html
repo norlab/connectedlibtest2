@@ -4,11 +4,10 @@
         <a href="../index.html">
           <img src="../assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
         </div>
-<p> This is the {{section}} section, I think.</p>
+
 <p>This is the {{ page.section }} section, I think.</p>
-<p>This is the {{ post.section }} section, I think.</p>
-<p>This is the {{ include.section }} section, I think.</p>
-        <ul class="agenda-navigation">
+
+        <ul class="agenda-navigation {{ page.section }}">
           <li><a href="../introduction/">Overview</a></li>
           <li><a href="../intro-2/">What does connected learnng connect?</a></li>
           <li><a href="../intro-3/">Interests</a></li>
