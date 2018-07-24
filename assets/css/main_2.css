@@ -767,13 +767,13 @@ ul.fancy {
 }
 
 /* DROPDOWN */
-.navbar {
+.clnavbar {
     overflow: hidden;
     background-color: #333;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.navbar a {
+.clnavbar a {
     float: left;
     font-size: 16px;
     color: white;
@@ -799,7 +799,7 @@ ul.fancy {
     margin: 0;
 }
 
-.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+.clnavbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
     background-color: red;
 }
 
