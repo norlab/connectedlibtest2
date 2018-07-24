@@ -127,28 +127,30 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
+	/* color: white; */
+	color: #510076; /* purple */
 	font-weight: 700;
 	font-size: 12px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
 	/* color: #e81e25; */
-	color: #510076; /* purple */
+	color: #730bdb; /* light purple */
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: #e81e25;
+	/* color: #e81e25; */
+	color: #730bdb; /* light purple */
 	background-color: transparent;
 }
 
 .navbar-default {
-	background-color: #dbd9dd; /* light gray */
+	background-color: #e7dfee; /* light gray */
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: #dbd9dd;
+	background: #e7dfee; /* ligiht gray */
 }
 
 .dropdown-menu > li > a {
