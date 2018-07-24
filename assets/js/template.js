@@ -99,13 +99,17 @@ function navigate(hash){
   hash = hash.toLowerCase();
   var numberOfSteps = $(".agenda > li").length;
   var overview = true;
+  if(hash.indexOf("step") > 0) {
+    var step = hash.replace("#step-","");
+    if(step <= numberOfSteps){
       overview = false;
-
+    }
+  }
 
  // If there's a step number in the hash, we'll show that step.
  //  Otherwise, we'll default to the overview.
   if(overview) {
-  hash = "";
+  hash = "#overview";
     $("section.overview").show();
     $("body").attr("mode","overview");
   } else {
