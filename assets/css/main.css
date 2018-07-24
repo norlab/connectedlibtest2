@@ -136,13 +136,13 @@ a:focus {
 .navbar-default .navbar-nav > li > a:hover {
 	/* color: #e81e25; */
 	color: #730bdb; /* light purple */
+	text-decoration: underline;
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	/* color: #e81e25; */
 	color: #730bdb; /* light purple */
 	background-color: transparent;
-	text-decoration: underline;
 }
 
 .navbar-default {
