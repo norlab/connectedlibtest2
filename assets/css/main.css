@@ -134,7 +134,7 @@ a:focus {
 
 .navbar-default .navbar-nav > li > a:hover {
 	/* color: #e81e25; */
-	color: #a91ee8; /* purple */
+	color: #510076; /* purple */
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -143,12 +143,12 @@ a:focus {
 }
 
 .navbar-default {
-	background-color: gray;
+	background-color: #dbd9dd; /* light gray */
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: gray;
+	background: #dbd9dd;
 }
 
 .dropdown-menu > li > a {
