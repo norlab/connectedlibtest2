@@ -1,0 +1,48 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: "ConnectedLib"
+description: "Helping librarians use digital media with teens."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "/" #important: start with /
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  # primary: "#e81e25"
+  # primary_rgb: "232, 30, 37"  #rgb of the primary. Needed in some places for the transparency effect.
+  # secondary: "#ededee"
+  link: "#01b2fe"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#bfc9d3"
+
+# Making projects separate from posts
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  questions:
+    output: true
+    permalink: /questions/:title/
+
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: twitter
+    url: https://twitter.com/connectedlib
+
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines:
+    - The Information School
+    - University of Washington
+    - Bloedel Hall 060
+    - Seattle, WA 98195
+email: cl21@uw.edu
+
+

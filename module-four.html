@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Data for Decision-Making | Introduction</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="196x196" href="../template-assets/images/favicon.png">
+    <link rel="stylesheet" href="https://tascha.github.io/D4DM/template-assets/css/style.css">
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="https://tascha.github.io/D4DM/template-assets/js/template.js" type="text/javascript" charset="utf-8"></script>
+  </head>
+  <body>
+    <div class="wrapper" mode="overview">
+
+        <aside>
+        <div class="image">
+          <img src="images/TASCHA_logo_stacked_color.png" alt="TASCHA logo">
+          <!--<a class="attribution" href="https://www.flickr.com/photos/laura_nk/24640877256/sizes/m/">By laura_nk</a>-->
+        </div>
+
+        <ul class="agenda-navigation">
+          <li><a href="#overview">Overview</a></li>
+          <li><a href="#step-1">Review</a></li>
+          <li><a href="#step-2">Activity 4.1: Questioning Your Data</a></li>
+          <li><a href="#step-3">Introducing Key Concepts</a></li>
+          <li><a href="#step-4">Understanding How to Make Meaning Out of Your Data – Descriptive Statistics</a></li>
+          <li><a href="#step-5">Key Considerations</a></li>
+          <li><a href="#step-6">Activity 4.2: Making Meaning with your Data</a></li>
+          <li><a href="#step-7">Providing Future Resources</a></li>
+          <li><a href="#step-8">Understanding Key Concepts: File Types</a></li>
+          <li><a href="#step-9">Understanding Key Concepts: Metadata, Publishing, and Communicating Data</a></li>
+          <li><a href="#step-10">Best Practices: Data Visualization</a></li>
+          <li><a href="#step-11">Debrief</a></li>
+        </ul>
+      </aside>
+
+<article class="main">
+
+        <div class="activity-menu">
+          <a class="toggle"><strong>Data for Decison-Making</strong> - Module 4 of 6</a>
+          <div class= "header-links"><a href="../D4DM/index.html" target="_blank">HOME</a>
+            <a href="../D4DM/about/" target="_blank">ABOUT</a>
+          <a href="../D4DM/downloads/" target="_blank">DOWNLOADS</a></div>
+          <ol class="activity-list">
+            <li><a href="module-one.html">Introduction to Data for Decision Making</a></li>
+            <li><a href="module-two.html">Assessing your Organization’s Data Culture</a></li>
+            <li><a href="module-three.html">Introduction to the Data Lifecycle - Collecting Data</a></li>
+            <li class="current"><a href="module-four.html">Introduction to the Data Lifecycle - Analyzing and Sharing Data</a></li>
+            <li><a href="module-five.html">Applying Data for Decision Making
+to Your Organization, Part 1</a></li>
+            <li><a href="module-six.html">Applying Data for Decision Making
+to Your Organization, Part 2</a></li>
+          </ol>
+        </div>
+
+
+        <h1 class="activity-title">Data for Decision-Making | Introduction to the Data Lifecycle - Analyzing and Sharing Data</a></h1>
+
+        <section class="overview">
+
+          <p class="made-by">
+            <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> by <a href="https://tascha.uw.edu">TASCHA</a>
+          </p>
+
+          <p class="time total-time">
+            3 hours
+          </p>
+
+          <br><p class="download-box">
+          <a href="../D4DM/documents/Module4_Contents.zip">Download this module</a> or visit our <a href="../D4DM/downloads/" target="_blank">downloads page</a> for more options
+          </p>
+
+          <!--<p class="summary">-->
+          <p><h4>Objectives</h4> 
+          <ul>
+            <li>Understand basic concepts of data lifecycle - including the collection, analysis, and sharing of data for decision making</li> 
+            <li>Understand key parts of the data analysis process, such as methods, cleaning data, coding data, and visualizing data</li> 
+            <li>Learn data visualization best practices</li> 
+            <li>Learn how to question your data and its integrity</li> 
+            <li>Understand how coding data can improve your analysis</li>
+            <li>Learn different ways to share data</li>
+            <li>Learn how to share data with metadata</li>
+            <li>Be able to identify different open-sourced resources for data analysis</li>
+          </ul>
+          </p>
+
+        
+          <h4>Materials</h4>
+
+          <ul>
+            <li>Projector</li>
+            <li>Computer</li>
+            <li>Blackboard/whiteboard (ideally)</li> 
+            <li>Paper</li>
+            <li>Pencils</li> 
+            <li><a href="../D4DM/documents/Mod4_Images.doc">Printout of images used</a></li>
+            <li><a href="http://tascha.github.io/D4DM/documents/Activity_4.1.doc">Activity packet 4.1</a></li> 
+            <li><a href="../D4DM/documents/Acivity_4.2.doc">Activity packet 4.2</a></li>
+            <li><a href="../D4DM/documents/StudentHandbook_Module4.doc">Student handbook</a></li>
+            <li><a href="../D4DM/documents/Module4_DataforDemocracy.ppt">Instructor Powerpoint slides</a></li>
+            <li>Myanmar election data</li> 
+            <li>Sample data and metadata from <a href="aiddata.org">aiddata.org</a></li>
+            <li>Visualization print outs from <a href="http://paldhous.github.io/ucb/2016/dataviz/week2.html">http://paldhous.github.io/ucb/2016/dataviz/week2.html</a></li>
+          </ul>
+</section> 
+         
+    <ul class="agenda">
+        
+          <li>
+          <h1>Review</h1>
+          <div class="time step-time">10 minutes</div>
+          <p>Welcome the participants back. Review the following concepts. As before, have the participants give their own definitions before providing definitions for the following:</p>  
+            <ul>
+              <li>Data life cycle</li>
+              <li>Data collection</li>
+              <li>Data analysis</li>
+              <li>Data sharing</li>
+              <li>Metadata</li>
+              <li>Primary data</li>
+              <li>Secondary data</li>
+              <li>Methods of data collection</li>
+            </ul>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+          
+      
+         </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+            <h1>Activity 4.1: Questioning Your Data</h1>
+            <div class="time step-time">25 minutes</div>
+            
+            <p class="download-box"><a href="http://tascha.github.io/D4DM/documents/Activity_4.1.doc">Download Activity 1.1</a></p>
+
+            <p><i>Adapted from: <a href="https://www.databasic.io/en/wtfcsv/wtfcsv-activity-guide.pdf">https://www.databasic.io/en/wtfcsv/wtfcsv-activity-guide.pdf</a></i></p>
+
+            <p><b>Objectives:</b></p>
+            <ul>
+              <li>Apply data analysis to a simplified dataset</li> 
+              <li>Learn how to ask a dataset questions based on its content</li> 
+              <li>Understand the importance of inspecting data for data reliability</li>
+              <li>Think critically about how to supplement your data with other data sources if necessary</li>
+            </ul>
+
+            <p><b>Materials Needed:</b></p>
+            <ul>
+              <li>Paper</li>
+              <li>Pencils</li>
+              <li>UFO dataset (Excel File “Activity 4.1 UFO Data.xls”) or other pre-selected dataset</li>
+              <li>Projector</li>
+              <li>Computer</li>
+            </ul>
+
+            <p><b>Introduction:</b> (Use the following information to introduce and explain the activity to the class)</p>
+
+            <p>This activity focuses on data reliability, question asking, and combining different data sources. Introduce the dataset to the class by projecting it on the screen and go over its contents together. What information is in the data set? What could be part of its metadata?</p>
+            <p>Then, pass out copies of the dataset and put the participants into groups of 2-3. Have the participants inspect the dataset and answer the following questions on their pieces of paper:</p>
+            <ul>
+              <li>What is the most interesting question you want to ask the dataset you are looking at?</li>
+              <li>Do you need any other datasets to answer this question?</li>
+              <li>How could you get the other data you need to answer this question?</li>
+            </ul>
+            <p>Afterwards, provide a space for discussion and debrief surround the activity. Questions include:</p>
+            <ul>
+              <li>Are all the answers to your questions contained in the dataset?</li>
+              <li>Where are the data from? If the sources of the data aren’t revealed, you should be skeptical.</li>
+              <li>Do you see places where values are missing? Mission values are one way data can be “messy.” If the class is unfamiliar with the term “messy data”, take the time to define it.</li>
+              <li>The data that was given to class is aggregated summary data, but sometimes you can ask interesting questions about just one row in a dataset, or look for an “outlier”. Are there any “outliers” in the dataset? If the class Is unfamiliar with “outliers”, provide a definition for them.</li>
+            </ul>
+ 
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+            <h1>Introducing Key Concepts</h1>
+            <div class="time step-time">15 minutes</div>
+
+            <p>Reintroduce the following image to the participants by passing it around or projecting it on the screen.</p>
+            <p><img src="http://tascha.github.io/D4DM/images/data-lifecycle.jpg" alt="Data Lifecycle Chart: Collect, Analyze, Share" width="100%"></p>
+            <p>After collecting your data (Module 3), you unfortunately don’t have a brilliant flash of insight and understand how to solve the problem or answer your original question. In order to make meaning out of your data, you need to analyze your data, which is the next step in the data lifecycle after data collection.</p>
+            <p>Remind the class of the following definition for data analysis:</p>
+            <ul>
+              <li>Data analysis: data analysis is the process of inspecting, cleansing, transforming, and visualizing data with the goal of discovering its useful information, suggesting conclusions, and supporting decision making. (Wikipedia)</li>
+            </ul>
+            <p>The following are steps to follow in beginning any data analysis.</p> 
+            <ol>
+              <li>Choosing method for analysis. </li>
+              <ul>
+                <li>This can be thought of as making meaning of the data, or how you will use the data to answer your question or solve your problem.</li>
+                <li>We want to choose a method that helps us answer our question or our overall goal.</li>
+                <li>If we want to know, for example, which parties are most represented in state and region parliaments? To answer this we need election results data (including location information), and we probably want to produce this on a map.</li>
+              </ul>
+              <li>Preparing data for analysis</li>
+              <ul>
+                <li>The next step is to prepare your data for analysis. Often, “raw data” straight from surveys, sensor data, or voter data can be “messy”, meaning it is not ready for analysis. To fix this, you often need to “clean” your data. Ask the participants what they think data cleaning might be. Then, provide the following definition:</li>
+                <li>Data Cleaning means making sure that data are ready for analysis.</li>
+                <li>Data cleaning depends on data type, and the method of analysis. In general, we should consider whether or not they are ready for analysis (e.g. are the values standard?) We can do an initial check on the data by picking some random values, and comparing them. We can also begin to “sort” the data by looking for minimum and maximum values, lists of values. If possible, use a dataset to demonstrate how to sort your data in excel or Google sheets</li>
+              </ul>
+              <li>Data Normalization</li>
+              <ul>
+                <li>After cleaning, the next step is data normalization, which means making all values consistent.</li>
+                <li>This includes ‘0’ vs ‘NA’, using similar scales, using similar decimal points, dates, words, etc. For location data, we also want to initially make sure that all of our data are within the right map and all locations are uniformly named.</li>
+              </ul>
+            </ol>
+              
+
+         </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+            <h1>Understanding How to Make Meaning Out of Your Data – Descriptive Statistics</h1>
+            <div class="time step-time">20 minutes</div>
+
+            <p>Now that the data have been prepared, cleaned, and normalized, the next steps in data analysis are to make meaning out of our data by applying the method of analysis that has already been chosen in order to reach a conclusion. In many ways this is finding and accepting (or rejecting) an answer to our question.</p> 
+            <p>We will cover three ways of making meaning with data in this workshop:</p> 
+            <ul>
+              <li>Descriptive Statistics</li> 
+              <li>Coding qualitative data</li> 
+              <li>Visualization</li>
+            </ul>
+            <p>First, we’ll begin with descriptive statistics. Ask the class if they have heard of descriptive statistics, or ask if they can think of a definition for descriptive statistics. Then, provide the class with the following definition:<p> 
+            <ul>
+              <li>Descriptive statistics are statistics that quantitatively describe or summarize features of a dataset.</li>
+            </ul>
+            <p>The following are descriptive statistics:</p> 
+            <ul>
+              <li>Mean: the average or the norm.</li>
+              <ul>
+                <li>Use case: the mean (“average”) age of the students in the class is 13. (what could these data look like?)</li>
+              </ul>
+              <li>Median: the middle value</li>
+              <ul>
+                <li>Use case: the median price for a house is $50K (what could these data look like?)</li>
+              </ul>
+              <li>Mode: the most frequent value</li>
+              <ul>
+                <li>Use case: the mode of number of times individuals went to the library per week is 3</li>
+              </ul>
+              <li>Range: the highest and lowest values in a dataset</li>
+              <ul>
+                <li>Use case: the range of household income is USD $150K (what could these data look like?)</li>
+              </ul>
+            </ul>
+            <p>Explain to the participants that these descriptive statistics act of measure of centrality and can tell us what is typical in our dataset. For example, ask for volunteers to give their favorite numbers. Write the numbers on the board, if possible, and then walk the participants through finding the mean, median, and mode, and range of the numbers provided.</p>
+            <p><b>See Module4_Supplement for an example of how to calculate these statistics within Google Sheets</b></p>
+            <p>The next way to make meaning out of your data is to code the data. Ask participants if they have coded data before. Also ask participants if they have an idea what coding is and could provide a definition. Then, provide the following definition:</p>
+            <ul>
+              <li>Coding: a process in which data, in both quantitative form (such as questionnaire results) or qualitative (such as interview transcripts) are categorized to make analysis easier. </li>
+            </ul>
+            <p>There are several ways coding could be approached. </p>
+            <ul>
+              <li>Iterative Coding (looking for common themes, and patterns in which to group the data)</li>
+              <li>Card Sorting - show data columns to stakeholders, develop common understanding of data, and select appropriate data to communicate to public</li>
+            </ul>
+            <p class="summary">If the above “coding” section is too advanced, there could be a description here that would give more advanced classes the opportunity to go in more depth about iterative coding and card sorting. If a class is less advanced or less familiar with this concept, then the above section can be skipped.</p>
+            <p>As an example, ask the participants a question such as for what they had for lunch today. Try to get as many answers as possible. Then, let the participants guide “coding” their answers into groups.</p>
+            <p>The final step in making meaning out of your data is visualization. Ask the participants why data visualization is important. How can it help in communicating and understanding your data? Underscore to the participants that visualization does not always have to be for an external audience. Often, visualizing your data will also help you as analyst gain a great understanding of the descriptive statistics of the data and how coding can be implemented or improved to make the analysis is easier.</p>
+            <p>As an example, using the Myanmar election data set provided, make an in initial chart. Choose an independent (political party) variable for the x-axis and a dependent variable (number of coverage in state and region parliaments) for the y-axis. Does the data look correct? Are we surprised? How can the data be transformed for easier analysis?</p>
+
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+            <h1>Key Considerations</h1>
+            <div class="time step-time">10 minutes</div>
+
+            <p>Introduce to the participants that there are a few things they should keep in mind throughout the data analysis process. These include:</p> 
+            <p>There are often many questions that a dataset can answer, and often you will think of more to ask as you continue to analyze your data.</p> 
+            <ul>
+              <li>Choose one initial question. Write it down. As new questions emerge, continue to write these down, and only after you’ve answered the initial question should you come back to the “new” questions</li>
+            </ul>
+            <p>Do I have enough data?</p>
+            <ul>
+              <li>This gets into notions of significance and representativeness of the data. For example, in looking at the age data that were collected in the descriptive statistics example, ask the students, were enough data collected? Do they provide an accurate enough picture of the class? What about of Myanmar as a whole? There are not always correct answers in questioning if you have enough data for it to be significant or representative. However, there are correct ways to report the limitations of any analysis, which can be included in the way the results are reported are shared.</li>
+            </ul>
+            <p>Do I trust the data that I have?</p>
+            <ul>
+              <li>Who collected these data? How? When were they collected? Is the sample size big enough?</li>
+              <li>Always communicate how much data or what kind of data were used</li>
+              <li>Always communicate how you arrived at an answer, and what were the limitations of the data that were used.</li>
+            </ul>
+            <p>The Lifecycle repeats itself:</p> 
+            <ul>
+              <li>After doing some data analysis, it may be necessary to collect more data, or seek additional materials.</li>
+              <li>This is a very normal part of doing data analysis – the lifecycle is a cycle for a reason – it is meant to be repeated a number of times before a project is over.</li>
+            </ul>
+
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+            <h1>Activity 4.2: Making Meaning with your Data</h1>
+            <div class="time step-time">35 minutes</div>
+
+            <p class="download-box"><a href="http://tascha.github.io/D4DM/documents/Activity_4.2.doc">Download Activity 4.2</a></p>
+
+            <p><b>Objectives:</b></p>
+            <ul>
+              <li>Understand the importance of cleaning and coding data for analysis</li> 
+              <li>Learn how to identify when data need to be cleaned or coded</li> 
+              <li>Learn how to effectively code your data for analysis</li> 
+            </ul>
+
+            <p><b>Materials Needed:</b></p>
+            <p><i>If participants have computers:</i></p>
+            <ul>
+              <li>Laptops</li>
+              <li>Excel</li>
+              <li>Excel file for cleaning and coding</li>
+              <li>Methods sheet for coding</li>
+            </ul>
+            <p><i>If participants do not have computers:</i></p>
+            <ul>
+              <li>Printout of dataset worksheet</li>
+              <li>Directions</li>
+              <li>Codesheet</li>
+              <li>Pens or pencils</li>
+            </ul>
+
+            <p><b>Introduction:</b> (Use the following information to introduce and explain the activity to the class)</p>
+
+            <p>Remind the class that in order for data to be used effectively for analysis and decision making, the data need to be properly cleaned and often recoded. Cleaning the data ensures that the data are standardized and readable by the software. This often entails checking for standardization between different returns, spelling errors, and capitalization. Coding data allows us to condense returns into categories or patterns that are more beneficial to decision making analysis or for communicating to an intended audience. Coding is particularly useful when data collection methods are open ended (i.e. demographic data questionnaires for occupation or education). Cleaning and coding are particularly important when visualizing data.</p>
+            <p><h3>Example of the Importance of Cleaning</h3></p>
+            <p>Pass around this image, or show it on the screen:</p> 
+            <p><img src="http://tascha.github.io/D4DM/images/excel1.jpg" alt="spreadsheet messy data" width="100%"></p> 
+
+            <p>Ask the participants to look at the column labeled “State or Region” and ask them if they can identify any problems. Only allow up to one minute. If the participants do not answer or do not answer correctly, point out that some returns are labeled “yangon” or “Mon” while others are labeled “Yangon Region” or “Mon State.” Show them the same dataset, but visualized, to show what happens when you visualize data that are not cleaned:</p> 
+            <p><img src="http://tascha.github.io/D4DM/images/tableau1.jpg" alt="barchart" width="100%"></p>
+
+            <p>Allow the class 30 seconds to answer this question: Why is this visual problematic? They should answer that there are separate columns in the visual for the same state or region because the labels are different in the dataset.</p>
+            <p>Now show the class the dataset after it has been re-coded:</p>
+            <p><img src="http://tascha.github.io/D4DM/images/excel2.jpg" alt="spreadsheet clean data" width="100%"></p>
+                    <figcaption>This dataset is taken from the working data files of the demographic data of elected MPs in Myanmar’s State and Region Parliaments. This was part of a project between the Enlightened Myanmar Research Foundation, the University of Washington, and Tableau Foundation in 2016.</figcaption>
+                    </figure>
+
+            <p>Explain to them that the new column is usually added at the end of the original database. The spelling and capitalization is the same for each return and the names for returns are standardized (for example, returns for Magway are re-coded as Magway Region and returns for shan are returned as Shan State).</p>
+            <p>Show them the same dataset visualized for the cleaned data:</p>
+            <p><img src="http://tascha.github.io/D4DM/images/tableau2.jpg" alt="barchart" width="100%"></p>
+            <p><h3>Example of the Importance of Re-coding</h3></p>
+            <p>Pass around the image, or show it on the screen:</p>
+            <p><img src="http://tascha.github.io/D4DM/images/excel3.jpg" alt="spreadsheet" width="100%"></p>
+            <p>Ask the participants to look at Column A (Education). Inform them that these data were compiled from an open-ended response to “education” on a form for parliamentary candidates in Myanmar. Because individuals were not provided with a closed list of options to choose from, we can see that there are many different responses.</p>
+            <p>Show the participants this visual, which is the data in column A in visual format:</p>
+            <p><img src="http://tascha.github.io/D4DM/images/tableau3.jpg" alt="vertical barchart" width="100%"></p>
+            <p>Explain to the participants that this does not easily tell us the educational attainment of the individuals. When there are many categories with few returns (in this case, one or two returns), the data should be recoded.</p>
+            <p>Return to the previous image of the dataset. Ask participants to look at Column C, which shows the data recoded into the highest level of education completed. In re-coding the data, all degrees considered to be bachelor’s degrees were re-coded as “Bachelor.” Master’s degrees were re-coded as “Master.” Individuals who began university study but did not or have not yet completed a bachelor’s degree were recoded into the category “Some University.” High School completion and middle school completion were recoded into “B.E.H.S. and B.E.M.S. respectively. M.B.B.S., medical bachelor’s degree, remained as it was in the original dataset.</p>
+            <p>Now show the participants the recoded education data in visual format:</p>
+            <p><img src="http://tascha.github.io/D4DM/images/tableau4.jpg" alt="vertical barchart" width="100%"></p>
+            <p>Ask them which visual provides more information about the educational attainment of the individuals? They should answer the second visual (recoded data). </p>
+            <p>Now break the participants into groups of 2-3. They will be given a dataset with data that need to be cleaned and coded. If participants are using computer, provide them with the excel file. If they are not using computers, provide them the paper copy of the excel file included in this activity. They will also be provided with a directions sheet and a codesheet that provides them with the categories and methods to be used to recode the data for each indicator. If the class is more advanced, only provide them with the directions and make them create their own codesheet for re-coding the data. Working together, they should do the following:</p>
+             <ul>
+               <li>Clean the “State or Region” data so that they are standardized, spelled correctly, and capitalized the same.</li>
+               <li>Recode the “Occupation” data:</li>
+               <ul>
+                 <li>Recode the occupations by sector. The sectors that participants should use are provided on the codesheet. For example, farmers and individuals who work with livestock should be re-coded as “Agriculture.” Teachers and headmasters should be re-coded as “Education.”</li>
+               </ul>
+               <li>Recode the “Education” data two different ways:</li>
+               <ul>
+                 <li>First, by completed education (middle school, high school, some university, bachelor, master, Ph.D.). For example, B.A., B.Sc., L.L.B., and B.Ed. will all be classified as “bachelor”</li>
+                 <li>Second, by the highest education completed using four categories represented by numeric returns (0 = below bachelor; 1 = bachelor; 2 = above bachelor’s.) For example, B.E.M.S. and B.E.H.S. will be coded with a 0 because these education levels are below bachelor’s degrees. A Master’s degree and a Ph.D. will be coded with a 2, since they are degrees higher than a Bachelor’s degree.</li>
+               </ul>
+              </ul>
+              <p>Walk around the room and provide participants with help as needed. Refer to the cheat sheet if needed. </p>
+              <p>At the end, provide each group with a cheat sheet, or put it up on the screen and allow them a maximum of 5 minutes to check their responses. Ask participants if they are confused or have any questions.</p>
+              <p>Last, ask the participants these questions:</p>
+              <ul>
+                <li>What was challenging?</li>
+                <li>Why is cleaning and coding the data important?</li>
+              </ul>
+              <p><img src="http://tascha.github.io/D4DM/images/excel4.jpg" alt="spreadsheet" width="100%"></p>
+              <p><h2>Directions</h2></p>
+              <ol>
+                <li>Please clean the data returns for “State or Region” (column B). You should provide the new cleaned data in Column E, “StateRegion_Recode.”</li>
+                <ol>
+                  <li>You should include the label “State” or “Region” following the name of the administrative territory. For example, Yangon Region or Shan State</li>
+                  <li>There should be a space between the territory name and the label State or Region and both should be capitalized. For example, Magway Region. Do not write magway region or MagwayRegion.</li>
+                  <li>See “Coding State and Region Data” for the comprehensive list of labels you should use for the re=coded column</li>
+                </ol>
+                <li>Please recode the Occupation data. The original occupation returns are provided in column C.</li>
+                <ol>
+                  <li>Recode these by sector in Column F. A sector is a distinct part of society. In a state, key sectors are usually represented by a ministry or department. For a comprehensive list of sectors to use for re-coding and to decide which occupations should be recoded into the given sectors, refer to “Coding Occupation Sectors.”</li>
+                  <li>Please make sure that all re-coded returns (Column F) are capitalized and spelled correctly.</li>
+                </ol>
+                <li>Please recode the Education data. The original education data are provided in Column D. </li>
+                <ol>
+                  <li>First, recode these data by education completed in Column G. The following categories should be used: Middle School, High School, Some University, Bachelor, Master, Ph.D. “Some University” refers to individuals who started a university degree but have not completed a bachelor’s degree. Please refer to “Coding Education Completed” to help you identify which returns should be re-coded under the new categories.</li>
+                  <li>Second, recode the data numerically to represent the highest educational level obtained in Column H. This return is intended to show who has not obtained a university degree (below bachelor), who has obtained a bachelor’s degree, and who has obtained a higher degree (master’s degree or Ph.D.). Please use the following numbers: 0 = below bachelor’s degree; 1 = bachelor’s degree; 2 = above bachelor’s degree. Please refer to “Numeric Coding for Highest Education Obtained” for a detailed explanation of which returns should be re-coded with each number.</li>
+                </ol>
+              </ol>
+              <p><h3>Codesheet</h3></p>
+              <p><i>Coding State and Region Data</i></p>
+              <p>Please use the following categories:</p>
+              <style type="text/css">
+              .tg  {border-collapse:collapse;border-spacing:0;}
+              .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+              .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+              .tg .tg-s6z2{text-align:center}
+              .tg .tg-hgcj{font-weight:bold;text-align:center}
+              </style>
+              <table class="tg">
+                <tr>
+                  <th class="tg-hgcj">States</th>
+                  <th class="tg-hgcj">Regions</th>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Kachin State</td>
+                  <td class="tg-s6z2">Bago Region</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Kayin State</td>
+                  <td class="tg-s6z2">Magway Region</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Mon State</td>
+                  <td class="tg-s6z2">Sagaing Region</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Shan State</td>
+                  <td class="tg-s6z2">Yangon Region</td>
+                </tr>
+              </table>
+              <br>
+              <p><i>Coding Occupation Sectors</i></p>
+              <p>Please use the following sectors:</p>
+              <table class="tg">
+                <tr>
+                  <th class="tg-hgcj">Sector</th>
+                  <th class="tg-hgcj">Returns included</th>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Agriculture</td>
+                  <td class="tg-s6z2">Farmer, Rice mill owner, Gardener, Livestock</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Education</td>
+                  <td class="tg-s6z2">Teacher, Headmaster, Professor</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Government</td>
+                  <td class="tg-s6z2">Minister</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Health</td>
+                  <td class="tg-s6z2">Clinic practitioner, Doctor, Nurse</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Law</td>
+                  <td class="tg-s6z2">Advocate</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Military</td>
+                  <td class="tg-s6z2">Military personnel, Major, Deputy general manager</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Not Applicable</td>
+                  <td class="tg-s6z2">Unknown, Dependent</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Political Party</td>
+                  <td class="tg-s6z2">Political party chair, MP</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Sales</td>
+                  <td class="tg-s6z2">Trader, Shop owner, Fishery business owner</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Services</td>
+                  <td class="tg-s6z2">Hotel owner</td>
+                </tr>
+              </table>
+              <br>
+              <p><i>Coding Education Completed</i></p>
+              <p>Please use the following categories to recode the education returns:</p>
+              <table class="tg">
+                <tr>
+                  <th class="tg-hgcj">Education Recode Category</th>
+                  <th class="tg-hgcj">Returns included</th>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">B.E.M.S.</td>
+                  <td class="tg-s6z2">B.E.M.S.</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">B.E.H.S.</td>
+                  <td class="tg-s6z2">B.E.H.S.</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Some University</td>
+                  <td class="tg-s6z2">B.A. (first year), B.A. (second year)</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Bachelor</td>
+                  <td class="tg-s6z2">B.A., B.Sc., B.Ed., L.L.B., M.B.B.S.</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Master</td>
+                  <td class="tg-s6z2">M.A., M.Sc., L.L.M.</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">Ph.D.</td>
+                  <td class="tg-s6z2">Ph.D.</td>
+                </tr>
+              </table>
+              <br>
+              <p><i>Numeric Coding for Highest Education Obtained</i></p>
+              <p>Please use the following numbers to represent the highest education level obtained:</p>
+              <table class="tg">
+                <tr>
+                  <th class="tg-hgcj">Numeric Recode Highest Education</th>
+                  <th class="tg-hgcj">Education Recode Categories included</th>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">0</td>
+                  <td class="tg-s6z2">B.E.M.S., B.E.H.S., Some University</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">1</td>
+                  <td class="tg-s6z2">Bachelor</td>
+                </tr>
+                <tr>
+                  <td class="tg-s6z2">2</td>
+                  <td class="tg-s6z2">Master, Ph.D.</td>
+                </tr>
+              </table>
+              <br>
+              <p><h3>Teacher Cheat Sheet:</h3></p>
+              <p><img src="http://tascha.github.io/D4DM/images/excel5.jpg" alt="spreadsheet" width="100%"></p>
+                
+              <p class="summary">Dismiss the class for a ten-minute break.</p>
+
+
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+                <h1>Providing Future Resources</h1>
+                <div class="time step-time">25 minutes</div>
+
+                <p>The following section of this module provides participants with sample resources surrounding data analysis that they can return to in the future. If using a projector, take time to go to each website and click around, providing commentary with participants about the website’s purpose and how they can use the website in the future. If not, provide screenshots of each source that can be passed around to the participants as the instructor describes each data resource.</p>
+                <p>Sample Resources:</p>
+                <p>Making Meaning: Quantitative</p>
+                <ul>
+                  <li><a href="https://docs.google.com/spreadsheets/d/1GwAGqhipP6CdeyGuk3dZEl004H8C24JkSMki50lu5kI/template/preview?usp=drive_web#">Easy to use template for Google Sheets</a></li>
+                </ul>
+                <p>Making Meaning: Qualitative</p> 
+                <ul>
+                  <li><a href="http://uxmastery.com/store/card-sorting-analysis-spreadsheet/">Card sorting templates</a></li>
+                  <li><a href="http://onlineqda.hud.ac.uk/Intro_QDA/how_what_to_code.php">Qualitative data coding</a></li>
+                  <li><a href="http://www.dedoose.com/">Online (free) tool for coding</a></li>
+                </ul>
+                <p>Making Meaning: Visualization</p> 
+                <ul>
+                  <li><a href="http://paldhous.github.io/ucb/2016/dataviz/week2.html">Basic principles</a></li>
+                  <li><a href="https://developers.google.com/chart/">Combine Google Sheets and Google Charts</a></li>
+                  <li><a href="https://public.tableau.com/s/">Tableau Public (free) tool</a></li>
+                </ul>
+                <br>
+                <br>
+                <br>
+                <br>
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+                    <h1>Introducing Key Concepts: File Types</h1>
+                    <div class="time step-time">15 minutes</div>
+
+                    <p>The next part of the module explains how to share data. Remind participants about the importance of sharing data, as discussed in Module 2.</p> 
+
+                    <p>Knowledge sharing: an activity through which information, skills, expertise is exchanged between people, friends, and organizations. (Bulchandani, Linkedin, 2015)</p>  
+
+                    <p>Emphasize to the class that knowledge sharing helps create awareness among different organizations, helps facilitate faster solutions and improves response rates, can increase coordination, and can also provide ways for new ideas to be accepted and shared faster.</p> 
+
+                    <p>Engaging with other organizations allows them to learn from each other. You can share approaches, methods, tools, or instruments with each other. You should try to be as open as possible with sharing your data, your analysis, and your conclusions from that analysis.</p>
+
+                    <p>To share your data, you should prepare the data into digital formats that can be easily sharable across organizations. Data should always be put into “open formats”. These include:</p> 
+                    <ul>
+                      <li>Text: .txt; docx, comma/tab delimited, .xls</li>
+                      <li>Image: JPEG, PNG</li>
+                      <li>Audio: Mp3</li>
+                      <li>Video: MP4</li>
+                    </ul>
+
+                    <p>Ask the participants if they have used any formats of these files before. If possible, open files on the computer and explore their extensions on a projector.</p>
+
+
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+                     <h1>Understanding Key Concepts: Metadata, Publishing, and Communicating Data</h1>
+                      <div class="time step-time">15 minutes</div>
+                     
+
+                    <p>Remind participants about metadata. As before, ask if they can give their own definition of metadata before providing the following:</p>
+                    <ul>
+                      <li>Metadata:  information that describes, explains, or gives context for other data. They are provided to make it easier to interpret, use, and manage data.</li>
+                    </ul>
+                    <p>Metadata are important because it is used to add context to data. Metadata are the key for primary data to be used as secondary data. Metadata can be:</p>
+                    <ul>
+                      <li>Descriptive Metadata - who created the data, when, where, what kind of data are these, and what topics / subjects do they contain?</li>
+                      <li>Administrative Metadata - how were the data produced, using what methods of data collection, and what instruments?</li>
+                      <li>Rights metadata - Who can use what resource, how , and under what conditions? (See <a href="https://choosealicense.com/">how to choose a license</a>)</li> 
+                    </ul>
+                    <p><b>Creating documentation</b></p> 
+
+                    <p>If wifi, a computer, and a projector are available, walk the participants through some of the replication data on <a href="http://aiddata.org/">aiddata.org</a>. If not, take the time to print out some sample datasets along with their metadata for the class to pass around and analyze. Look at each dataset and its metadata: how does he metadata describe the data? How is it administrative? How does it describe rights?</p> 
+
+                    <p>Also take the time to explain read.me that accompanies a dataset- plain text file that describes dataset or collection of files. Look through some example read.me files as well. Then, provide a discussion for participants surrounding metadata and data within their own organizations. Sample discussion questions include: How can they create metadata so it is easily shareable? How can they use metadata to communicate the purpose of their research to other organizations? Why is metadata and its creation important?</p>
+                    <p><b>Publishing Data</b></p>
+                    <p>Publishing the documentation of your data is an important way to share your data with outside organizations and other governments. You should store your data into repository with long-term preservation plan. This will ensure long-term access to your data and will offer back-up locations for it should the original files become corrupted.<p>
+
+                    <p>Below are free services for data archiving:</p>
+                    <ul>
+                      <li><a href="https://figshare.com/">Figshare</a></li>
+                      <li><a href="https://zenodo.org/">Zenodo</a></li>
+                    </ul>
+
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+                          <h1>Best practices: Data visualization</h1>
+                          <div class="time step-time">15 minutes</div>
+
+                          <p>This final section about data sharing is about communicating the data to appropriate audience.</p>
+                          <p>Take the time to project the following chart, or pass the image around to participants.</p>
+                          <p><img src="http://tascha.github.io/D4DM/images/chart-suggestions.png" alt="Chart Suggestions: A Thought-Starter" width="100%"></p>
+                          <p>Walk the participants through the different types of charts, and how they should choose visualization types that will effectively communicate not only their data, but also the question they sought to answer with that data.<p>
+                          <p>If access to wifi is available, access the following page for more information surrounding different types of visualizations. Of note are the sections from simple comparisons: bars and columns down to composition: change over time. <a href="http://paldhous.github.io/ucb/2016/dataviz/week2.html">http://paldhous.github.io/ucb/2016/dataviz/week2.html</a></p>
+                          <p>Other best practices for data visualizations include:</p>
+                          <ul>
+                            <li>Label all axes</li>
+                            <li>Create a legend that tells viewers what data are being used, and any limitations (e.g.sample size)</li>
+                            <li>Create a descriptive title</li>
+                            <li>Provide a link to the original data, or contact information for the data producer</li>
+                          </ul>
+                          <p>Final Notes on Visualization:</p>
+                          <ul>
+                            <li>Visualization is often an exploratory tool, and looks can be deceiving. In addition, another requirement for visualizations to be meaningful is that the data behind them must be good.</li>
+                            <li>Any insights gained from visualization need to be backed up with proof of some kind – that might be statistics, or it might be some other source of evidence found in your data.</li>
+                            <li>The important thing to remember is that visualizations are valuable way to see data, but they are limited in the proof that they offer…Visualizations are often a way to see broad trends, not to pick out specific evidence or proof.</li>
+                          </ul>
+
+          </li> <!--End of step-->
+        
+
+          <!-- Copy and paste this <li> tag to add additional steps -->
+          <li>
+                              <h1>Debrief</h1>
+                              <div class="time step-time">5 minutes</div>
+
+                              <p>Review with the class that today they learned about the data lifecycle: collecting, analyzing, and sharing their data surrounding a problem or issue that they would like to solve.</p>
+                              <p>State the tomorrow they will be putting Day 1 and Day 2 together, and will be working on a capstone project that will apply everything they have learned throughout the course. Take the time to answer any questions the participants may have, then dismiss the students for the day. </p>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+                              <br>
+           </li> <!-- end of step-->
+
+        </ul>
+      </section> 
+      </article>
+    </div>
+  </body>
+</html>
