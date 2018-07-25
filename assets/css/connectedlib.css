@@ -457,3 +457,85 @@ ul.agenda {
 .agenda-navigation li.selected:nth-child(1):after {
   opacity: 5;
 }
+
+/* This adds the numbers to each agenda step link */
+
+.agenda-navigation li:nth-child(2):after {
+  content: "1";
+}
+
+.agenda-navigation li:nth-child(3):after {
+  content: "2";
+}
+
+.agenda-navigation li:nth-child(4):after {
+  content: "3";
+}
+
+.agenda-navigation li:nth-child(5):after {
+  content: "4";
+}
+
+.agenda-navigation li:nth-child(6):after {
+  content: "5";
+}
+
+.agenda-navigation li:nth-child(7):after {
+  content: "6";
+}
+
+.agenda-navigation li:nth-child(8):after {
+  content: "7";
+}
+
+.agenda-navigation li:nth-child(9):after {
+  content: "8";
+}
+
+.agenda-navigation li:nth-child(10):after {
+  content: "9";
+}
+
+.agenda-navigation li:nth-child(11):after {
+  content: "10";
+}
+
+.agenda-navigation li:nth-child(12):after {
+  content: "11";
+}
+
+.agenda-navigation li:nth-child(13):after {
+  content: "12";
+}
+
+.agenda-navigation li:nth-child(14):after {
+  content: "13";
+}
+
+.agenda-navigation li:nth-child(15):after {
+  content: "14";
+}
+
+.agenda-navigation li:nth-child(16):after {
+  content: "15";
+}
+
+.agenda-navigation li:nth-child(17):after {
+  content: "16";
+}
+
+.next-up {
+  background: #eee;
+  padding: 20px 30px 20px 30px;
+  text-align: right;
+  position: relative;
+}
+
+.next-up .arrow {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-weight: bold;
+  padding: 0 5px;
+  position: relative;
+  top: -2px;
+}
+
