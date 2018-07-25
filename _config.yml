@@ -4,7 +4,8 @@
 title: "ConnectedLib"
 description: "Helping librarians use digital media with teens."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/" #important: start with /
+url: "https://infobyway.github.io"
+baseurl: "/connectedlibtest2" #important: start with /
 
 # Build settings
 markdown: kramdown
