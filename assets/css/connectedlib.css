@@ -398,6 +398,11 @@ ul.agenda {
   background: #C92751;
 }
 
+
+#overview .agenda-navigation li.overview a, #one .agenda-navigation li.one a {
+  background: #C92751;
+}
+
 .agenda-navigation li a {
   padding-left: 55px;
   color: rgb(51, 51, 51);
