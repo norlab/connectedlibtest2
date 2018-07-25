@@ -770,7 +770,7 @@ ul.fancy {
  /* Navbar container */
 .clnavbar {
   overflow: hidden;
-  background-color: #0f811c;
+  background-color: transparent;
   font-family: Arial;
 }
 
@@ -782,12 +782,14 @@ ul.fancy {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  background-color: #333;
 }
 
 /* The dropdown container */
 .dropdown {
   float: left;
   overflow: hidden;
+    background-color: #333;
 }
 
 /* Dropdown button */
