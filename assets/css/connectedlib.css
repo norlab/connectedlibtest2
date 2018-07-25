@@ -580,6 +580,31 @@ ul.fancy {
   text-decoration: underline;
 }
 
+/* Footer */
+#footerwrap {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: #e7dfee; /* light grayish purple */
+}
+
+#footerwrap p {
+  color: {{ site.colors.footer_content }};
+}
+
+#footerwrap h4 {
+  color: {{ site.colors.footer_heading }};
+}
+
+#footerwrap i {
+  font-size: 30px;
+  color: {{ site.colors.footer_content }};
+  padding-right: 25px;
+}
+
+#footerwrap i:hover {
+  color: #e81e25
+}
+
 /* BOX STYLES */
 
 .case_study_box { 
