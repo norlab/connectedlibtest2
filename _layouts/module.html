@@ -8,11 +8,15 @@ layout: default
 
 	{% include {{page.module_name}}_nav.html %}
 
-	<article class="main">
+	<article class="wrap">
 
 		{% include {{page.module_name}}_top_nav.html %}
 
-		{{ content }}
+		<article class="main">
+
+			{{ content }}
+
+		</article>
 
 	</article>
 
