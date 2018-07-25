@@ -577,4 +577,7 @@ ul.fancy {
 
 /* BOX STYLES */
 
-.case_study_box { background-color: #e396f2; /* light purple */}
+.case_study_box { 
+  background: #e396f2; /* light purple */
+  border: solid 1px #000;
+}
