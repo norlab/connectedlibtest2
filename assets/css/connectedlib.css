@@ -587,3 +587,25 @@ ul.fancy {
   border: solid 1px #000;
   text-align: center;
 }
+
+/* INDEX PAGE BUTTONS */
+
+.btn-theme {
+  color: #fff;
+  /* background-color: black;
+  border-color: black; */
+  background-color: #510076; /* dark purple */
+  border-color: #510076; /* dark purple */
+  margin: 4px;
+}
+.btn-theme:hover,
+.btn-theme:focus,
+.btn-theme:active,
+.btn-theme.active,
+.open .dropdown-toggle.btn-theme {
+  color: #fff;
+  /* background-color: #e81e25;
+  border-color: #e81e25; */
+  background-color: #730bdb; /* light purple */
+  border-color: #730bdb; /* light purple */
+}
