@@ -12,7 +12,7 @@ section: overview
 
 ## Module Overview
 
-<p class="summary">In this module, **Introduction to Connected Learning**, you will learn what connected learning is and why it is important, and evaluate your youth programs to see how well they incorporate connected learning principles.</p>
+<p class="summary">In this module, <b>Introduction to Connected Learning</b>, you will learn what connected learning is and why it is important, and evaluate your youth programs to see how well they incorporate connected learning principles.</p>
 
 
 ### Learning Objectives For This Module
