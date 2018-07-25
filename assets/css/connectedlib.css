@@ -574,3 +574,7 @@ ul.fancy {
   font-weight: 700;
   text-decoration: underline;
 }
+
+/* BOX STYLES */
+
+.case_study_box { background-color: #e396f2; /* light purple */}
