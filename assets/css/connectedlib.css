@@ -115,6 +115,11 @@ a:hover {
   text-decoration: underline;
 }
 
+article.wrap {
+  position: relative;
+  padding: 0px;
+}
+
 article.main {
   position: relative;
   padding: 30px 40px 30px 50px;
@@ -560,7 +565,7 @@ ul.fancy {
 }
 
 .fancy li, .agenda .fancy li {
-  color: #D3627F;
+  color: #0b4eab; /* dark blue */
   border-bottom: solid 1px rgba(203,35,79,.15);
   padding: 14px 0 !important;
 }
