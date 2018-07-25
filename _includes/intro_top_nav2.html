@@ -1,14 +1,10 @@
-
-
 <div class="clnavbar">
-  <a href="#home">Home</a>
-  <a href="#news">News</a>
   <div class="dropdown">
-    <button class="dropbtn">Dropdown
+    <button class="dropbtn">{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="module-one.html">Introduction to Connected Learning</a>
+      <a href="../introduction/">Introduction to Connected Learning</a>
       <a href="module-two.html">Connected Learning Design Principles</a>
       <a href="module-three.html">Why Your Library Needs Connected Learning</a>
       <a href="module-four.html">A Connected Learning Plan for Your Library</a>
@@ -18,4 +14,3 @@
 
 <h3>Dropdown Menu inside a Navigation Bar</h3>
 <p>Click on the "Dropdown" link to see the dropdown menu.</p>
-
