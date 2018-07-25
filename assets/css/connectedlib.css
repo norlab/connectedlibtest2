@@ -53,7 +53,7 @@ hr {
 }
 
 blockquote {
-  color: #D3627F;
+  color: #dad6db;
   border-left: solid 2px #EF9AB6;
   background: #fae6ea;
   margin: 25px 0 35px 0;
@@ -544,11 +544,11 @@ ul.agenda {
   top: -2px;
 }
 
-/* Fancy red list */
+/* Fancy red list that is now blue */
 
 ul.fancy, ol.fancy {
-  background: #fae6ea;
-  color: #D3627F;
+  background: #afd6ee; /* light blue */ 
+  color: #0b4eab; /* dark blue */
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
