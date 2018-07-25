@@ -1,12 +1,13 @@
 ---
-layout: dropdowntest
+layout: module
+module_name: introduction
 permalink: /introduction/
 section: Introduction to Connected Learning
-title: Introduction to Connected Learning - Overview
+subtitle: Introduction to Connected Learning - Overview
 subsection: overview
 ---
 
-# {{ page.title }}
+# {{ page.subtitle }}
 
 <p class="made-by"><a href="https://creativecommons.org/licenses/by-sa/4.0">CC-BY-SA</a> by ConnectedLib</p>
 

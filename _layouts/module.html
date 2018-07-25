@@ -1,12 +1,19 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+---
 
-    {% include head.html %}
-
-    <body>
 <div class="wrapper" mode="overview">
-            {{ content }}
-</div>
 
-    </body>
-</html>
+	<!-- left navigation -->
+
+	{% include {{page.module_name}}_nav.html %}
+
+	<article class="main">
+
+		{% include {{page.module_name}}_top_nav.html %}
+
+		{{ content }}
+
+	</article>
+
+</div>

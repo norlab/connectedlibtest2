@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<!-- THIS IS THE INDEX LAYOUT -->
-<!-- NOT USING THIS HEADER RIGHT NOW -->
-<!--  include header.html  -->
+{% include nav.html %}
 
-  {{ content }}
+{{ content }}
 
+{% include js.html %}
+
+{% include footer.html %}
