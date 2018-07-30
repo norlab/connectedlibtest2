@@ -25,7 +25,7 @@ Learning that is driven by teens’ interests will better align with their perso
   <li>Do you still remember anything about the topics? </li>
   <li>How engaged were you with the topics—did you ask questions or do your own research? </li>
   <li>How did the adult (if any) in the situation interact with you?</li>
-<ul>
+</ul>
   </div>
 
 > “Teens don't often know what their passions are. We need to help them explore possibilities for their passions and give them the tools necessary to explore those passions.” -- Urban Midwest Library
