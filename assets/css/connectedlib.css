@@ -651,13 +651,12 @@ a .external {
 }
 
 .explanatory { 
-  background: #41c341;
-  border-left: solid 2px 'dark green'; 
-  border-left: solid 2px #; 
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
+  background: #41c341; /* green */
+  border-left: solid 2px #006400;  /* dark green */
+  margin: 10px;
+  /* font-size: 18px;
+  line-height: 145%; */
+  padding: 10px ;
 }
 
 .tips { 
