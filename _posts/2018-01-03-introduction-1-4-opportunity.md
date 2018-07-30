@@ -33,6 +33,6 @@ Opportunity-oriented learning is directed towards helping teens achieve academic
   <ul><li>What is the immediate opportunity for the teen participants? </li>
     <li>What are the longer-term opportunities that the teens may have because of their participation in this program? </li>
 <li>How would you help a teen translate their experience with this program into bullet points for a resume? </li>
-  </ul>
+  </ul></div>
 ---
 <a name="fn1">1</a>: Ito, Mizuko, Kris Gutiérrez, Sonia Livingstone, Bill Penuel, Jean Rhodes, Katie Salen, Juliet Schor, Julian Sefton-Green, and S. Craig Watkins. [Connected Learning: An Agenda for Research and Design](https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/).
