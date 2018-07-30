@@ -12,7 +12,7 @@
                          <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview!</a></li>
                     </ul>
         </div>
-            {% endif %} </p>
+           {% else %}
                 <div id="{{ page.subsection }}">
                         <ul class="agenda-navigation">
                                 <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview!</a></li>
@@ -24,6 +24,6 @@
                                 <li class="six"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-6/">Section 1 Activities</a></li>
                         </ul>
         </div>
-
+ {% endif %}
         
       </aside>
