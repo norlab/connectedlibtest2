@@ -6,8 +6,7 @@
         </div>
 {% if page.section == "Overview" %}
         <p>Overview Section</p> 
-        
-        {% elsif page.section == "one" %}        
+{% end if %}    
         
                 <div id="{{ page.subsection }}">
                         <ul class="agenda-navigation">
@@ -19,8 +18,7 @@
                                 <li class="five"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-5/">Why ConnectedLib?</a></li>
                                 <li class="six"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-6/">Section 1 Activities</a></li>
                         </ul>
-                </div>
-        {% else %} <p>Something else</p>
-{% end if %}
+        </div>
+
         
       </aside>
