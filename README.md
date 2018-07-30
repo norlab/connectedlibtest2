@@ -1,5 +1,5 @@
 # ConnectedLib
-ConnectedLib curriculum content and templates; original code by TASCHA. 
+ConnectedLib curriculum content and templates; original code by TASCHA and Mozilla. 
 
 ## File Structure
 
@@ -20,7 +20,7 @@ Home - Index.html
 
 **1.0 What is Connected Learning? - Overview - 2018-01-02-introduction-1.md**
 
-**section: What is Connected Learning?** 
+**section: 1.0 What is Connected Learning?** 
 * Permalink: /introduction/section-1/
 * subtitle: Overview
 * subsection: overview
@@ -55,3 +55,38 @@ Home - Index.html
   * subtitle: Additional Resources
   * subsection: six
   
+**2.0 Connected Learning Design Principles - 2018-01-04-introduction-2.md**
+section: 2. Connected Learning Design Principles
+
+* Permalink: /introduction/section-2/
+* subtitle: Overview
+* subsection: overview
+
+* 2.1 Production - 2018-01-04-introduction-2-1-production.md
+  * Permalink: /introduction/section-2-1/
+  * subtitle: 2.1 Production
+  * subsection: one
+  
+* 2.2 Multiple Pathways - 2018-01-04-introduction-2-2-pathways.md
+  * Permalink: /introduction/section-2-2/
+  * subtitle: 2.2 Multiple Pathways
+  * subsection: two
+  
+* 2.3 Shared Purpose - 2018-01-04-introduction-2-3-shared.md
+  * Permalink: /introduction/section-2-3/
+  * subtitle: 2.3 Shared Purpose
+  * subsection: three
+  
+* 2.4 Sponsorship - 2018-01-04-introduction-2-4-sponsorship.md
+  * Permalink: /introduction/section-2-4/
+  * subtitle: 2.4 Sponsorship
+  * subsection: four
+  
+* Additional Resources - 2018-01-04-introduction-2-1-addresources.md
+  * Permalink: /introduction/section-2-5/
+  * subtitle: Additional Resources
+  * subsection: five
+
+
+
+
