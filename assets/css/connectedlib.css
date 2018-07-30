@@ -677,3 +677,7 @@ a .external {
   padding: 20px ;
 }
 
+.box-title {
+  font-weight: bold;
+  text-transform: uppercase;
+}
