@@ -3,14 +3,14 @@ layout: module
 module_name: introduction
 module_full_name: Introduction to Connected Learning
 permalink: /introduction/section-1-1/
-section: What is Connected Learning? 
+section: 1. What is Connected Learning? 
 subtitle: 1.1 Connected Learning Defined
 subsection: one
 ---
 
 # {{ page.subtitle }}
 
-> “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.” <sup>[1](#fn1)</sup>
+> “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement..” <sup>[1](#fn1)</sup>
 
 Connected learning is an educational framework—an approach to creating learning experiences. Connected learning is driven by learners’ interests, supported by their relationships, and oriented towards academic, economic, or civic opportunity. 
 

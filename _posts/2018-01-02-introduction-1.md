@@ -10,7 +10,7 @@ subsection: overview
 
 # {{ page.section }} - {{ page.subtitle }}
 
-Connected learning is an educational framework that connects interests, relationships, and opportunity. This section provides an overview of the concept, including the equity agenda that drives the framework, and introduces ConnectedLib. 
+Connected learning is an educational framework that connects interests, relationships, and opportunity. This section provides an overview of the concept, including the equity agenda that drives the framework, and introduces ConnectedLib.
 
 ## Learning Outcomes For This Section
 <ul class="fancy"><li>Briefly describe connected learning and the “equity agenda” behind the framework.</li>
