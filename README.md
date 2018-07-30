@@ -31,7 +31,7 @@ Home - Index.html
 
 * 1.2 Interests - 2018-01-03-introduction-1-2.md
   * Permalink: /introduction/section-1-2
-  * subtitle: 1.1 Connected Learning Defined
+  * subtitle: 1.2 Interests
   * subsection: two
 
 * 1.3 Relationships - 2018-01-03-introduction-1-3.md
