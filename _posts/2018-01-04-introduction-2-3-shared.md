@@ -14,7 +14,7 @@ Teens are often sorted based on their ages and where they live, but the resultin
 
 <div class="case_study_box">
   <p class="box-title">Shared purpose in action</p>
-  The National Veterans Art Museum education programs foster a sense of shared purpose among veterans and teens, as is shown in this video [4:07]. </p>
+  <p>The National Veterans Art Museum education programs foster a sense of shared purpose among veterans and teens, as is shown in this video [4:07]. </p>
   
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CkqyRzRehbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
