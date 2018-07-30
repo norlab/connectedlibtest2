@@ -23,7 +23,7 @@ At the heart of connected learning is an “equity agenda” to help close the c
 
 ## What does connected learning connect?
 
-Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings. When the spheres are connected, teens’ quality of learning and engagement with learning increases. 
+Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.<sup>[1](#fn1)</sup> When the spheres are connected, teens’ quality of learning and engagement with learning increases. 
 
 - **Relationships**: Teens learning with and from other teens as well as adults
 - **Interests**: Aligned with teens’ goals and motivations
