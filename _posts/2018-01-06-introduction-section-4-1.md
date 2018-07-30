@@ -2,7 +2,7 @@
 layout: module
 module_name: introduction
 module_full_name: Introduction to Connected Learning
-permalink: /introduction/section-4/
+permalink: /introduction/section-4-1/
 section: 4. A Connected Learning Plan For Your Library
 subtitle: 1. Your Library
 subsection: one
