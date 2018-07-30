@@ -8,7 +8,7 @@ subtitle: 3.2 Building Capacity For Learning
 subsection: two
 ---
 
-# {{ page.section }}
+# {{ page.subtitle }}
 
 > “I'd love to have an ongoing Minecraft club, but I'm getting a little pushback from my team because they don't see Minecraft as a library service. They don't see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don't exist today, so who knows?” -- Southern Suburban Library
 

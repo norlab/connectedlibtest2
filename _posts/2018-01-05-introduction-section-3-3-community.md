@@ -8,7 +8,7 @@ subtitle: 3.3 Building Community and Connections
 subsection: one
 ---
 
-# {{ page.section }}
+# {{ page.subtitle }}
 
 Connected learning helps teens plug into their community, defined by geography or interest, and build a network of connections and support. Connected learning is a social activity, bringing people of different ages and backgrounds together around common interests and goals. Working with peers and mentors reinforces a teen’s learning, motivates them to participate, and helps them develop the “soft” skills they need to succeed in society. Additionally, as teen culture becomes more and more participatory, teens need 21st century skills to fully engage with society. 
 
