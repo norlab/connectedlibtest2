@@ -13,7 +13,7 @@ subsection: three
 
 When learning is supported by relationships, teens aren’t just learning with each other—they’re also learning from each other by sharing their ideas, providing constructive feedback, and collaborating on projects.
 
-<div class="case-study-box">
+<div class="case_study_box">
   <p class="box-title">Learning through relationships</p>
   <p>Peer-Supported, Social Connection [6:29] by <a href="https://www.youtube.com/channel/UCK3lhPDfexvG10DUROwVVhw" class="external">Chicago City of Learning</a></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/whc_ZivyEdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
