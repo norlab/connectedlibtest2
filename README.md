@@ -25,32 +25,32 @@ Home - Index.html
 * subsection: overview
 
 * 1.1 Connected Learning Defined - 2018-01-03-introduction-1-1.md
-  * Permalink: /introduction/section-1-1
+  * Permalink: /introduction/section-1-1/
   * subtitle: 1.1 Connected Learning Defined
   * subsection: one
 
 * 1.2 Interests - 2018-01-03-introduction-1-2.md
-  * Permalink: /introduction/section-1-2
+  * Permalink: /introduction/section-1-2/
   * subtitle: 1.2 Interests
   * subsection: two
 
 * 1.3 Relationships - 2018-01-03-introduction-1-3.md
-  * Permalink: /introduction/section-1-3
+  * Permalink: /introduction/section-1-3/
   * subtitle: 1.3 Relationships
   * subsection: three
 
 * 1.4 Opportunity - 2018-01-03-introduction-1-4.md
-  * Permalink: /introduction/section-1-4
+  * Permalink: /introduction/section-1-4/
   * subtitle: 1.4 Opportunity
   * subsection: four
   
 * 1.5 Why ConnectedLib? - 2018-01-03-introduction-1-5.md
-  * Permalink: /introduction/section-1-5
+  * Permalink: /introduction/section-1-5/
   * subtitle: 1.5 Why ConnectedLib?
   * subsection: five
   
 * Additional Resources - 2018-01-03-introduction-1-6.md
-  * Permalink: /introduction/section-1-6
+  * Permalink: /introduction/section-1-6/
   * subtitle: Additional Resources
   * subsection: six
   
