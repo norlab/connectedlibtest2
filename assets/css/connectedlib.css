@@ -637,6 +637,10 @@ ul.fancy {
 
 /* BOX STYLES */
 
+a .external {
+  font-weight: bold;
+}
+
 .case_study_box { 
   background: #ebbeff; /* light purple */
   border-left: solid 2px #510076; /* dark purple */
