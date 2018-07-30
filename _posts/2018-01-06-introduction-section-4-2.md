@@ -15,7 +15,7 @@ Go back and look at the self-assessment you completed at the end of Section 2. W
 
 
 |Connected Learning Strengths|Connected Learning Weaknesses|
----
+|---||
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
 
