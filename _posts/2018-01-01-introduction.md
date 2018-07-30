@@ -2,8 +2,8 @@
 layout: module
 module_name: introduction
 permalink: /introduction/
-section: Introduction to Connected Learning
-subtitle: Introduction to Connected Learning - Overview
+section: Overview
+subtitle: Overview
 subsection: overview
 ---
 
