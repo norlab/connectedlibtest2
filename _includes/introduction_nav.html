@@ -6,7 +6,13 @@
         </div>  
         <p> {{ page.module_full_name }}<br/> - {{ page.section }}</p>
         
-        <p> {% if page.section == "Overview" %} This is the overview, ppl {% endif %} </p>
+         {% if page.section == "Overview" %} 
+            <div id="{{ page.subsection }}">
+                 <ul class="agenda-navigation"> 
+                         <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview!</a></li>
+                    </ul>
+        </div>
+            {% endif %} </p>
                 <div id="{{ page.subsection }}">
                         <ul class="agenda-navigation">
                                 <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview!</a></li>
