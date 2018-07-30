@@ -5,7 +5,7 @@ module_full_name: Introduction to Connected Learning
 permalink: /introduction/section-3-3/
 section: 3. Why Your Library Needs Connected Learning
 subtitle: 3.3 Building Community and Connections
-subsection: one
+subsection: three
 ---
 
 # {{ page.subtitle }}

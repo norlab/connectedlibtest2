@@ -2,7 +2,7 @@
 layout: module
 module_name: introduction
 module_full_name: Introduction to Connected Learning
-permalink: /introduction/section-3-1/
+permalink: /introduction/section-3-4/
 section: 3. Why Your Library Needs Connected Learning
 subtitle: Additional Resources
 subsection: four
