@@ -4,16 +4,23 @@
         <a href="{{site.url}}{{site.baseurl}}">
           <img src="{{site.url}}{{site.baseurl}}/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
         </div>
-
-<div id="{{ page.subsection }}">
-        <ul class="agenda-navigation">
-          <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview</a></li>
-          <li class="one"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-1/">What is Connected Learning?</a></li>
-          <li class="two"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-2/">Interests</a></li>
-          <li class="three"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-3/">Relationships</a></li>
-          <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-4/">Opportunity</a></li>
-          <li class="five"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-5/">Why ConnectedLib?</a></li>
-          <li class="six"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-6/">Section 1 Activities</a></li>
-        </ul>
-      </div>
+{% if page.section = "Overview" %}
+        <p>Overview Section</p> 
+        
+        {% elsif page.section = "one" %}        
+        
+                <div id="{{ page.subsection }}">
+                        <ul class="agenda-navigation">
+                                <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview</a></li>
+                                <li class="one"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-1/">What is Connected Learning?</a></li>
+                                <li class="two"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-2/">Interests</a></li>
+                                <li class="three"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-3/">Relationships</a></li>
+                                <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-4/">Opportunity</a></li>
+                                <li class="five"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-5/">Why ConnectedLib?</a></li>
+                                <li class="six"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-6/">Section 1 Activities</a></li>
+                        </ul>
+                </div>
+        
+{% end if %}
+        
       </aside>
