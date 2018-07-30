@@ -4,7 +4,7 @@ module_name: introduction
 module_full_name: Introduction to Connected Learning
 permalink: /introduction/section-3-1/
 section: 3. Why Your Library Needs Connected Learning
-subtitle: 1. Promoting Equity
+subtitle: 3.1 Promoting Equity
 subsection: one
 ---
 
