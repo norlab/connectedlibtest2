@@ -19,6 +19,7 @@ Home - Index.html
 * subsection: overview
 
 **1.0 What is Connected Learning? - Overview - 2018-01-02-introduction-1.md**
+
 **section: What is Connected Learning?** 
 * Permalink: /introduction/section-1/
 * subtitle: Overview
