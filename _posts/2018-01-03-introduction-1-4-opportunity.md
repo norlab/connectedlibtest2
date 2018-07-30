@@ -17,7 +17,7 @@ Opportunity-oriented learning is directed towards helping teens achieve academic
   <p class="box-title">Opportunity-oriented learning in action</p>
   <p>In this TED Talk [6:16], Geoff Mulgan describes how the UK’s studio school model has taken teens from the lowest to the highest grades by letting them “learn for real.”</p>
   
-<iframe src="https://embed.ted.com/talks/lang/en/geoff_mulgan_a_short_intro_to_the_studio_school" width="480" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
+<iframe src="https://embed.ted.com/talks/lang/en/geoff_mulgan_a_short_intro_to_the_studio_school" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
 
 ## What does opportunity-oriented learning look like? 
 * Teens are connected to mentors with professional experience
