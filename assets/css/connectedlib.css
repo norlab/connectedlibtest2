@@ -268,9 +268,10 @@ figure img {
 aside {
   /* background: #EDEDEE; */
   background: #959896; /* darker gray */
-  flex-grow: 0;
+ /* flex-grow: 0;
   flex-shrink: 0;
-  flex-basis: 300px;
+  flex-basis: 300px;*/
+  width:275px;
   position:fixed;
   height: 100%; 
   z-index: 1;
