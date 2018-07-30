@@ -5,7 +5,7 @@ module_full_name: Introduction to Connected Learning
 permalink: /introduction/section-4-4/
 section: 4. A Connected Learning Plan For Your Library
 subtitle: 4.4 Wrapping Up
-subsection: three
+subsection: four
 ---
 
 # {{ page.subtitle }}
