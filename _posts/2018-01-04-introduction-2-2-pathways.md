@@ -14,7 +14,7 @@ Providing “multiple pathways” involves creating networks and infrastructures
 
 <div class="case_study_box">
   <p class="box-title">Pathway building in action: Chicago City of Learning</p>
-  This video [5:29] describes how the Chicago City of Learning created pathways between local resources, opening up a city-wide network of learning opportunities. 
+  <p>This video [5:29] describes how the Chicago City of Learning created pathways between local resources, opening up a city-wide network of learning opportunities. </p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pleB8URTPKQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
 
