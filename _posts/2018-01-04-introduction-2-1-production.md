@@ -7,7 +7,7 @@ permalink: /introduction/section-2-1/
 subtitle: 2.1 Production
 subsection: one
 ---
-<p class="breadcrumbs" style="font-size: small;"><a href="http://infobyway.github.io/connectedlibtest2/">ConnectedLib</a> > <a href=""http://infobyway.github.io/connectedlibtest2/introduction/">Introduction to Connected Learning</a> > <a href="http://infobyway.github.io/connectedlibtest2/introduction/section-2/">{{ page.section }}</p>
+<p class="breadcrumbs" style="font-size: small;"><a href="http://infobyway.github.io/connectedlibtest2/">ConnectedLib</a> > <a href=""http://infobyway.github.io/connectedlibtest2/introduction/">Introduction to Connected Learning</a> > <a href="http://infobyway.github.io/connectedlibtest2/introduction/section-2/">2. Connected Learning Design Principles</p>
 
 # {{ page.subtitle }}
 
