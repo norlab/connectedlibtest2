@@ -4,10 +4,10 @@
         <a href="{{site.url}}{{site.baseurl}}">
           <img src="{{site.url}}{{site.baseurl}}/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
         </div>
-{% if page.section = "Overview" %}
+{% if page.section == "Overview" %}
         <p>Overview Section</p> 
         
-        {% elsif page.section = "one" %}        
+        {% elsif page.section == "one" %}        
         
                 <div id="{{ page.subsection }}">
                         <ul class="agenda-navigation">
@@ -20,7 +20,7 @@
                                 <li class="six"><a href="{{site.url}}{{site.baseurl}}/introduction/intro-6/">Section 1 Activities</a></li>
                         </ul>
                 </div>
-        
+        {% else %} <p>Something else</p>
 {% end if %}
         
       </aside>
