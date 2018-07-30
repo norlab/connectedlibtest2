@@ -5,18 +5,19 @@ ConnectedLib curriculum content and templates; original code by TASCHA.
 
 ### Site Map
 
-Home - Index.html]
+Home - Index.html
+
+---
 
 #### Introduction to Connected Learning
-**module_name: introduction
-module_full_name: Introduction to Connected Learning**
+**module_name: introduction | module_full_name: Introduction to Connected Learning**
 
 **0.0 - Module Overview - 2018-01-01-introduction.md**
 * Permalink: /introduction/
 * section: Overview
 * subtitle: Overview
 * subsection: overview
----
+
 **1.0 What is Connected Learning? - Overview - 2018-01-02-introduction-1.md**
 **section: What is Connected Learning?** 
 * Permalink: /introduction/section-1/
