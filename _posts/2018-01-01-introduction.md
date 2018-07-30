@@ -22,10 +22,10 @@ subsection: overview
 ### Learning Objectives For This Module
 
 <ul class="fancy">
-	<li>Describe connected learning and what it connects, and navigate the ConnectedLib modules (<a href="/introduction/section-1/">Section 1: Introduction</a>).</li>
-	<li>Understand how to implement the four connected learning design principles (<a href="/introduction/section-2/">Section 2: Connected Learning Design Principles</a>).</li>
-	<li>Explain how connected learning fits into your library’s mission and goals (<a href="/introduction/section-3/">Section 3: Why Your Library Needs Connected Learning</a>).</li>
-	<li>Develop an action plan to implement connected learning in your library, no matter how big or small (<a href="/introduction/section-4/">Section 4: Getting Started With Connected Learning in Your Library</a>).</li>
+	<li>Describe connected learning and what it connects, and navigate the ConnectedLib modules (<a href="section-1/">Section 1: Introduction</a>).</li>
+	<li>Understand how to implement the four connected learning design principles (<a href="section-2/">Section 2: Connected Learning Design Principles</a>).</li>
+	<li>Explain how connected learning fits into your library’s mission and goals (<a href="section-3/">Section 3: Why Your Library Needs Connected Learning</a>).</li>
+	<li>Develop an action plan to implement connected learning in your library, no matter how big or small (<a href="section-4/">Section 4: Getting Started With Connected Learning in Your Library</a>).</li>
 </ul>
 
 ### How to Use This Module
