@@ -9,12 +9,13 @@
         
         <div id="{{ page.subsection }}">
 
+        {% if page.section == "Overview" %} 
 
                 <ul class="agenda-navigation"> 
                         <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview!</a></li>
                 </ul>
         
-
+        {% elsif page.section == "1. What is Connected Learning?" %}
                 
                 <ul class="agenda-navigation">
                         <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1/">Overview</a></li>
@@ -37,7 +38,7 @@
                         <li class="five"><a href="{{site.url}}{{site.baseurl}}/introduction/section-2-5/">Additional Resources</a></li>
                 </ul>     
 
-
+        {% elsif page.section == "3. Why Your Library Needs Connected Learning" %}
                 
             <ul class="agenda-navigation">
                         <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/section-3/">Overview</a></li>
@@ -47,7 +48,7 @@
                         <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/section-3-4/">Additional Resources</a></li>
                 </ul>           
           
-
+          {% elsif page.section == "4. A Connected Learning Plan For Your Library" %}
                 
             <ul class="agenda-navigation">
                         <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Overview</a></li>
@@ -57,5 +58,9 @@
                         <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/section-4-4/">4.4 Wrapping Up</a></li>
                 </ul> 
 
+
+
+
+           {% endif %}
         </div>
       </aside>
