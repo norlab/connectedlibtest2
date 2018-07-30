@@ -638,7 +638,7 @@ ul.fancy {
 /* BOX STYLES */
 
 a .external {
-  font-weight: bold;
+  font-weight: bold !important; 
 }
 
 .case_study_box { 
@@ -651,8 +651,9 @@ a .external {
 }
 
 .explanatory { 
-  background: green;
+  background: #41c341;
   border-left: solid 2px 'dark green'; 
+  border-left: solid 2px #; 
   margin: 25px 0 35px 0;
   font-size: 18px;
   line-height: 145%;
