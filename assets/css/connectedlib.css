@@ -639,6 +639,37 @@ ul.fancy {
 
 .case_study_box { 
   background: #ebbeff; /* light purple */
-  border: solid 1px #000;
-  text-align: center;
+  border-left: solid 2px #510076; /* dark purple */
+  margin: 25px 0 35px 0;
+  font-size: 18px;
+  line-height: 145%;
+  padding: 20px ;
 }
+
+.explanatory { 
+  background: green;
+  border-left: solid 2px 'dark green'; 
+  margin: 25px 0 35px 0;
+  font-size: 18px;
+  line-height: 145%;
+  padding: 20px ;
+}
+
+.tips { 
+  background: orange;
+  border-left: solid 2px red; 
+  margin: 25px 0 35px 0;
+  font-size: 18px;
+  line-height: 145%;
+  padding: 20px ;
+}
+
+.reflection { 
+  background: yellow;
+  border-left: solid 2px orange; 
+  margin: 25px 0 35px 0;
+  font-size: 18px;
+  line-height: 145%;
+  padding: 20px ;
+}
+
