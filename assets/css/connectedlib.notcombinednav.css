@@ -1,3 +1,5 @@
+/* This is for the version of the left nav that isn't all-in-one */
+
 /* GENERAL STUFF COPIED FROM TASCHA */
 
 body {
@@ -267,7 +269,7 @@ figure img {
 
 aside {
   /* background: #EDEDEE; */
-  background: #d4c1df; /* light purple from Milly's scheme */
+  background: #959896; /* darker gray */
  /* flex-grow: 0;
   flex-shrink: 0;
   flex-basis: 300px;*/
@@ -328,24 +330,24 @@ ul.agenda {
 }
 
 .agenda ul li {
-  /* line-height: 110%;
-  margin-bottom: 10px; */
+  line-height: 135%;
+  margin-bottom: 10px;
 }
 
 .agenda ol, .agenda ul, .overview ol, .overview ul {
-  padding-left: 10px;
-  margin-top: 10px;
+  padding-left: 25px;
+  margin-top: 15px;
 }
 
 .agenda ol li, .agenda ul li {
   border-bottom: solid 1px #DDD;
   margin: 0;
-  padding: 10px 0;
+  padding: 14px 0;
 }
 
-/* .overview ol li, .overview ul li {
+.overview ol li, .overview ul li {
   margin: 0;
-  padding: 0 0 10px 0;
+  padding: 0 0 12px 0;
 }
 
 .overview ul li:not(.optional) + li.optional {
@@ -360,7 +362,7 @@ ul.agenda {
 
 .overview ul li.optional:after {
   content: " (Optional)";
-} */
+}
 
 .agenda ul {
   list-style-type: disc;
@@ -426,7 +428,7 @@ ul.agenda {
 }
 
 .agenda-navigation a:hover {
-  background: #3d244e; /* dark purple from Milly's scheme */
+  background: #d13359;
 }
 
 .agenda-navigation li.selected a {
