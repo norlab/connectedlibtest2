@@ -425,6 +425,7 @@ ul.agenda {
 
 .agenda-navigation a {
   padding: 5px 5px;
+  color: #3d244e; /* dark purple from Milly's scheme */
 }
 
 .agenda-navigation a:hover {
