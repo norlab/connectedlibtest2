@@ -420,7 +420,7 @@ ul.agenda {
 
 .agenda-navigation li a {
   padding-left: 25px;
-  color: #fff;
+  color: #3d244e; /* dark purple from Milly's scheme */
 }
 
 .agenda-navigation a {
@@ -429,10 +429,11 @@ ul.agenda {
 
 .agenda-navigation a:hover {
   background: #3d244e; /* dark purple from Milly's scheme */
+  color: #fff !important;
 }
 
 .agenda-navigation li.selected a {
-  color: white;
+  color: white !important;
 }
 
 .agenda-navigation li:after {
