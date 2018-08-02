@@ -280,12 +280,19 @@ aside {
   overflow-x: hidden;
 }
 
+aside p {
+	font-weight:bold; 
+	width: 100%;	
+	}
+	
 aside p a {
-
   color: #3d244e; /* dark purple from Milly's scheme */
   padding-left: 10px;
-  width: 100%;
+}
 
+aside p a:hover {
+  background: #3d244e; /* dark purple from Milly's scheme */
+  color: #fff !important;
 }
 
 aside .image {
