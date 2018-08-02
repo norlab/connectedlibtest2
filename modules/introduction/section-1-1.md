@@ -2,13 +2,12 @@
 layout: module
 module_name: introduction
 module_full_name: Introduction to Connected Learning
-permalink: /introduction/section-1-1/
+title: 1.1 Connected Learning Defined
 section: 1. What is Connected Learning? 
-subtitle: 1.1 Connected Learning Defined
-subsection: one
+subsection: one-one
 ---
 
-# {{ page.subtitle }}
+# {{ page.title }}
 
 > “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement..” <sup>[1](#fn1)</sup>
 
