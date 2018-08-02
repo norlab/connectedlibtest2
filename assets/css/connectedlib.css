@@ -53,13 +53,13 @@ hr {
 }
 
 blockquote {
-  color: #dad6db;
+  color: #000;
   border-left: solid 2px #EF9AB6;
-  background: #fae6ea;
+  background: #d3d3d3; /* light gray */
   margin: 25px 0 35px 0;
-  font-size: 16px;
-  line-height: 150%;
   padding: 20px;
+  font-weight: bold; 
+  font-style: italic;
 }
 
 blockquote a {
