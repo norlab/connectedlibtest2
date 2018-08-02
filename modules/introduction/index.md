@@ -7,8 +7,6 @@ section: Overview
 subsection: overview
 ---
 
-# {{ page.subtitle }}
-
 <p class="made-by"><a href="https://creativecommons.org/licenses/by-sa/4.0">CC-BY-SA</a> by ConnectedLib</p>
 
 <p class="time">90 minutes</p>
