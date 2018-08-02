@@ -4,11 +4,8 @@ title: 1. What is Connected Learning?
 module_name: introduction
 module_full_name: Introduction to Connected Learning
 section: 1. What is Connected Learning?
-subtitle: Overview
 subsection: overview
 ---
-
-# {{ page.section }} - {{ page.subtitle }}
 
 Connected learning is an educational framework that connects interests, relationships, and opportunity. This section provides an overview of the concept, including the equity agenda that drives the framework, and introduces ConnectedLib.
 
