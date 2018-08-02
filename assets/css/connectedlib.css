@@ -192,14 +192,19 @@ figure img {
 }
 
 /* NAVBAR */
-/* SOURCE: https://www.w3schools.com/howto/howto_css_dropdown_navbar.asp */
 
 /* Navbar container */
-.clnavbar {
-  overflow: hidden;
-  background-color: #333;
-  font-family: Arial;
+.cltopnav {
+  background-color: #000; 
+  padding: 20px; 
+  color: #fff;
+  font-weight: bold;
+  font-size: 105%;
 }
+
+.cltopnav a {
+	color: #fff;
+	}
 
 /* Links inside the navbar */
 .clnavbar a {
