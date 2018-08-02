@@ -54,12 +54,13 @@ hr {
 
 blockquote {
   color: #000;
-  border-left: solid 2px #EF9AB6;
+  border-left: solid 2px #000;
   background: #d3d3d3; /* light gray */
   margin: 25px 0 35px 0;
   padding: 20px;
   font-weight: bold; 
   font-style: italic;
+  font-size: 125%;
 }
 
 blockquote a {
@@ -418,7 +419,7 @@ ul.agenda {
   color: #fff;
 }
 
-a.one, a.overview { 
+.agenda-navigation li a.one, .agenda-navigation li a.overview { 
 	font-weight:bold;
 	position: relative;
 	left: -10px;
@@ -426,7 +427,8 @@ a.one, a.overview {
 
 #overview  a.overview, #one a.one, #one-one a.one-one, #two .agenda-navigation li.two a, #three .agenda-navigation li.three a, #four .agenda-navigation li.four a, #five .agenda-navigation li.five a, #six .agenda-navigation li.six a {
   background: #743e94; /* medium purple from Milly's scheme */
-  color: #fff !important; 
+  color: #fff !important;
+  font-weight: bold;   
 }
 
 .agenda-navigation li a {
