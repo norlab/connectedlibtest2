@@ -40,11 +40,9 @@ hr {
 .summary {
   color: #D3627F;
   border-left: solid 2px #EF9AB6;
-  background: #fae6ea;
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
+  background: #85c1ff; /* light blue from Milly's scheme*/ 
+  margin: 20px 0 35px 0;
+  padding: 8px 35px 8px 40px;
   font-style: italic;
 }
 
@@ -204,6 +202,7 @@ figure img {
 
 .cltopnav a {
 	color: #fff;
+	text-decoration: underline;
 	}
 
 /* Links inside the navbar */
@@ -588,7 +587,7 @@ ul.agenda {
 /* Fancy red list that is now blue */
 
 ul.fancy, ol.fancy {
-  background: #afd6ee; /* light blue */ 
+  background: #4ba9ff; /* medium blue from Milly's scheme *
   color: #0b4eab; /* dark blue */
   border-radius: 2px;
   margin: 20px 0 35px 0;
@@ -682,27 +681,24 @@ a .external {
   background: #41c341; /* green */
   border-left: solid 2px #006400;  /* dark green */
   margin: 10px;
-  /* font-size: 18px;
-  line-height: 145%; */
+  font-size: 105%;
   padding: 10px ;
 }
 
 .tips { 
-  background: orange;
+  background: #feaf47; /* orangeish color from Milly's scheme" */
   border-left: solid 2px red; 
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
+  margin: 10px;
+  font-size: 105%;
+  padding: 10px ;
 }
 
 .reflection { 
-  background: yellow;
+  background: #e8e01d; /* yellow from Milly's scheme */
   border-left: solid 2px orange; 
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
+  margin: 10px;
+  font-size: 105%;
+  padding: 10px ;
 }
 
 .box-title {
