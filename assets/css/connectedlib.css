@@ -284,16 +284,6 @@ aside p {
 	font-weight:bold; 
 	width: 100%;	
 	}
-	
-aside p a {
-  color: #3d244e; /* dark purple from Milly's scheme */
-  padding-left: 10px;
-}
-
-aside p a:hover {
-  background: #3d244e; /* dark purple from Milly's scheme */
-  color: #fff !important;
-}
 
 aside .image {
   position: relative;
@@ -428,6 +418,11 @@ ul.agenda {
   color: #fff;
 }
 
+a.one, a.overview { 
+	font-weight:bold;
+	position: relative;
+	left: -10px;
+	}
 
 #overview  a.overview, #one a.one, #one-one a.one-one, #two .agenda-navigation li.two a, #three .agenda-navigation li.three a, #four .agenda-navigation li.four a, #five .agenda-navigation li.five a, #six .agenda-navigation li.six a {
   background: #743e94; /* medium purple from Milly's scheme */
