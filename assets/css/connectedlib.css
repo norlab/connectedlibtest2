@@ -421,7 +421,7 @@ ul.agenda {
 }
 
 
-#overview .agenda-navigation li.overview a, #one .agenda-navigation li.one a, #one-one .agenda-navigation li.one-one a, #two .agenda-navigation li.two a, #three .agenda-navigation li.three a, #four .agenda-navigation li.four a, #five .agenda-navigation li.five a, #six .agenda-navigation li.six a {
+#overview  a.overview, #one a.one, #one-one a.one-one, #two .agenda-navigation li.two a, #three .agenda-navigation li.three a, #four .agenda-navigation li.four a, #five .agenda-navigation li.five a, #six .agenda-navigation li.six a {
   background: #743e94; /* medium purple from Milly's scheme */
 }
 

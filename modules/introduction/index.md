@@ -4,7 +4,6 @@ title: Introduction to Connected Learning
 module_name: introduction
 module_full_name: Introduction to Connected Learning
 section: Overview
-subtitle: Overview
 subsection: overview
 ---
 
