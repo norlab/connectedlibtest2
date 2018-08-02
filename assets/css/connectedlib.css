@@ -428,8 +428,8 @@ ul.agenda {
 #overview  li.overview a, 
 #one li.one a, #one-one li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a,
 #two li.two a, #two-one li.two-one a, #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-five li.two-five a, #two-six li.two-six a,
-#three .agenda-navigation li.three a, 
-#four .agenda-navigation li.four a, 
+#three li.three a, #three-one li.three-one a, #three-two li.three-two a, #three-three li.three-three a, #three-four li.three-four a, #three-five li.three-five a, #three-six li.three-six a,
+#four li.four a, #four-one li.four-one a, #four-five li.four-five a, #four-six li.four-six a, #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a,
 #five .agenda-navigation li.five a, 
 #six .agenda-navigation li.six a {
   background: #743e94; /* medium purple from Milly's scheme */
@@ -670,7 +670,7 @@ a .external {
   border-left: solid 2px #3d244e; /* dark purple from Milly's scheme */
   margin: 10px;
   font-size: 105%;
-  adding: 10px ;
+  padding: 10px ;
 }
 
 .explanatory { 
