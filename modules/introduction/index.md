@@ -1,14 +1,14 @@
 ---
 layout: module
+title: Introduction to Connected Learning
 module_name: introduction
 module_full_name: Introduction to Connected Learning
-permalink: /introductionpage/
 section: Overview
 subtitle: Overview
 subsection: overview
 ---
 
-# {{ page.subtitle }}
+# {{ page.subtitle }} - .md file
 
 <p class="made-by"><a href="https://creativecommons.org/licenses/by-sa/4.0">CC-BY-SA</a> by ConnectedLib</p>
 
