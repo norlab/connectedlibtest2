@@ -425,9 +425,9 @@ ul.agenda {
 	left: -10px;
 	}
 
-#overview  li.overview, 
-#one li.one, #one-one li.one-one, #one-two li.one-two, #one-three li.one-three, #one-four li.one-four, #one-five li.one-five, #one-six li.one-six,
-#two .agenda-navigation li.two a, 
+#overview  li.overview a, 
+#one li.one a, #one-one li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a,
+#two li.two a, #two-one li.two-one a, #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-five li.two-five a, #two-six li.two-six a,
 #three .agenda-navigation li.three a, 
 #four .agenda-navigation li.four a, 
 #five .agenda-navigation li.five a, 
