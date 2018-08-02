@@ -666,12 +666,11 @@ a .external {
 }
 
 .case_study_box { 
-  background: #ebbeff; /* light purple */
-  border-left: solid 2px #510076; /* dark purple */
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
+  background: #d4c1df; /* light purple from Milly's scheme */
+  border-left: solid 2px #3d244e; /* dark purple from Milly's scheme */
+  margin: 10px;
+  font-size: 105%;
+  adding: 10px ;
 }
 
 .explanatory { 
