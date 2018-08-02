@@ -419,7 +419,7 @@ ul.agenda {
   color: #fff;
 }
 
-.agenda-navigation li a.one, .agenda-navigation li a.overview { 
+.agenda-navigation li a.section-intro, .agenda-navigation li a.overview { 
 	font-weight:bold;
 	position: relative;
 	left: -10px;
