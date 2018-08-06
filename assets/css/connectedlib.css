@@ -1,3 +1,54 @@
+/* MILLY'S COLOR SCHEMES 
+
+== base scheme
+
+#723d95 medium purple
+#feae4b mustard yellow
+#eb898b dusty rose
+#4fbdb4 teal
+
+#bb694f rust
+#8cea89 warm mint
+#4ca9fc light blue
+#93913c sort of a dark mustard golden color
+#e8e01d bright yellow
+
+== expanded schemes
+
+= 1
+#4fbdb4 teal
+
+#c7e8e2 very light teal
+#225c59 dark teal
+#fc4305 rusty orange
+#f69a77 pale rusty orange
+
+= 2
+#eb898b dusty rose
+
+#fec8cb pale dusty rose
+#8d1c1c garnet
+#0ccc05 bright green
+#88fe86 slightly cooler mint
+
+= 3 
+#feae4b mustard yellow
+
+#ffd7a6 pale yellow-brown
+#a25b00 dark red-brown
+#0082f8 bright blue
+#85c0fe pale blue
+
+=4
+#723d95 medium purple
+
+#d4c1df lilac
+#3d244e dark purple
+#faf304 very bright yellow
+#fffd86 very pale yellow 
+
+*/
+
 /* GENERAL STUFF COPIED FROM TASCHA */
 
 body {
@@ -40,12 +91,10 @@ hr {
 .summary {
   color: #D3627F;
   border-left: solid 2px #EF9AB6;
-  background: #fae6ea;
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
-  font-style: italic;
+  background: #85c0fe; /* pale blue */
+  border-radius: 2px;
+  margin: 20px 0 35px 0;
+  padding: 8px 35px 8px 40px;
 }
 
 .summary li {
@@ -431,6 +480,7 @@ But there was no time to do more than jerry-rig an adaptation. */
 #four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a
  {
   background: #743e94; /* medium purple from Milly's scheme */
+  color: #fff #important;
 }
 
 li.sectionhead {
@@ -587,8 +637,8 @@ li.sectionhead {
 /* Fancy red list that is now blue */
 
 ul.fancy, ol.fancy {
-  background: #afd6ee; /* light blue */ 
-  color: #0b4eab; /* dark blue */
+  background: ##85c0fe; /* pale blue */ 
+  color: #000; 
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
@@ -670,8 +720,8 @@ a .external {
 }
 
 .case_study_box { 
-  background: #ebbeff; /* light purple */
-  border-left: solid 2px #510076; /* dark purple */
+  background: #d4c1df; /* lilac */
+  border-left: solid 2px #3d244e; /* dark purple */
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
@@ -679,24 +729,25 @@ a .external {
 }
 
 .explanatory { 
-  background: #41c341; /* green */
-  border-left: solid 2px #006400;  /* dark green */
+  background: #8cea89; /* warm mint */
+  border-left: solid 2px #0ccc05;  /* bright green */
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
 }
 
 .tips { 
-  background: orange;
-  border-left: solid 2px red; 
+  background: #f69a77; /* pale rusty orange */
+  border-left: solid 2px #fc4305; /* rusty orange */
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
+
 }
 
 .reflection { 
-  background: yellow;
-  border-left: solid 2px orange; 
+  background: #fffd86; /* very pale yellow */
+  border-left: solid 2px #faf304; /* very bright yellow */
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
