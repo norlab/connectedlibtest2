@@ -198,14 +198,14 @@ figure img {
   overflow: hidden;
   background-color: #333;
   font-family: Arial;
+  color: #fff;
+  font-size: 16px;
 }
 
 /* Links inside the navbar */
-.clnavbar a {
-  float: left;
+.clnavbar a, .clnavbar p {
   font-size: 16px;
   color: white;
-  text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
