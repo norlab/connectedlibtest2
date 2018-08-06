@@ -101,9 +101,8 @@ hr {
 }
 
 blockquote {
-  color: #dad6db;
   border-left: solid 2px #EF9AB6;
-  background: #fae6ea;
+  background: #d3d3d3;
   margin: 25px 0 35px 0;
   font-size: 16px;
   line-height: 150%;
