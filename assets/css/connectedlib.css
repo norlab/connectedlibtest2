@@ -420,11 +420,19 @@ ul.agenda {
   color: #fff;
 }
 
+/* This used to be a much more elegant way to highlight the selected section, before we had a single combined left nav. 
+But there was no time to do more than jerry-rig an adaptation. */
 
 #overview li.overview a, 
-#one li.one-one a, #one li.one-two a, #one li.one-three a, #one li.one-four a, #one li.one-five a, #one li.one-six a, 
+#one-one li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a, 
 #two .agenda-navigation li.two a, #three .agenda-navigation li.three a, #four .agenda-navigation li.four a, #five .agenda-navigation li.five a, #six .agenda-navigation li.six a {
   background: #743e94; /* medium purple from Milly's scheme */
+}
+
+li.sectionhead {
+  position:relative;
+  left: -10px;
+
 }
 
 .agenda-navigation li a {
