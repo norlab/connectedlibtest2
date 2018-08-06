@@ -89,7 +89,6 @@ hr {
 }
 
 .summary {
-  color: #D3627F;
   border-left: solid 2px #EF9AB6;
   background: #85c0fe; /* pale blue */
   border-radius: 2px;
@@ -256,7 +255,12 @@ figure img {
   font-size: 16px;
   color: white;
   padding: 14px 16px;
-  text-decoration: none;
+}
+
+.clnavbar .navlink {
+  font-size: 16px;
+  color: white;
+  padding: 14px 16px;
 }
 
 /* The dropdown container */
