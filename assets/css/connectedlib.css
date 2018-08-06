@@ -470,18 +470,6 @@ ul.agenda {
   color: #fff;
 } */
 
-/* This used to be a much more elegant way to highlight the selected section, before we had a single combined left nav. 
-But there was no time to do more than jerry-rig an adaptation. */
-
-#overview .agenda-navigation li.overview a, 
-#one li.one a, #one-one .agenda-navigation li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a, 
-#two li.two a, #two-one li.two-one a,  #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-give li.two-five a, #two-six li.two-six a,
-#three li.three a, #three-one li.three-one a,  #three-two li.three-two a, #three-three li.three-three a, #three-four li.three-four a, #three-five li.three-five a, #three-six li.three-six a,
-#four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a
- {
-  background: #743e94; /* medium purple from Milly's scheme */
-  color: #fff #important;
-}
 
 li.sectionhead {
   position:relative;
@@ -504,6 +492,19 @@ li.sectionhead {
 .agenda-navigation a:hover {
   background: #3d244e; /* dark purple from Milly's scheme */
   color: #fff !important;
+}
+
+/* This used to be a much more elegant way to highlight the selected section, before we had a single combined left nav. 
+But there was no time to do more than jerry-rig an adaptation. */
+
+#overview .agenda-navigation li.overview a, 
+#one li.one a, #one-one .agenda-navigation li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a, 
+#two li.two a, #two-one li.two-one a,  #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-give li.two-five a, #two-six li.two-six a,
+#three li.three a, #three-one li.three-one a,  #three-two li.three-two a, #three-three li.three-three a, #three-four li.three-four a, #three-five li.three-five a, #three-six li.three-six a,
+#four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a
+ {
+  background: #743e94; /* medium purple from Milly's scheme */
+  color: #fff #important;
 }
 
 /* .agenda-navigation li.selected a {
@@ -637,7 +638,7 @@ li.sectionhead {
 /* Fancy red list that is now blue */
 
 ul.fancy, ol.fancy {
-  background: ##85c0fe; /* pale blue */ 
+  background: #85c0fe; /* pale blue */ 
   color: #000; 
   border-radius: 2px;
   margin: 20px 0 35px 0;
