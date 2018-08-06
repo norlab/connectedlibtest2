@@ -230,7 +230,8 @@ figure img {
 
 /* Add a red background color to navbar links on hover */
 .clnavbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  color: red;
+  text-decoration: underline;
 }
 
 /* Dropdown content (hidden by default) */
