@@ -416,10 +416,10 @@ ul.agenda {
   transition: background .1s ease-out;
 }
 
-.agenda-navigation li.selected a {
-  background: #743e94; /* medium purple from Milly's scheme */
+/* .agenda-navigation li.selected a {
+  background: #743e94;  * medium purple from Milly's scheme *
   color: #fff;
-}
+} */
 
 /* This used to be a much more elegant way to highlight the selected section, before we had a single combined left nav. 
 But there was no time to do more than jerry-rig an adaptation. */
@@ -456,11 +456,11 @@ li.sectionhead {
   color: #fff !important;
 }
 
-.agenda-navigation li.selected a {
+/* .agenda-navigation li.selected a {
   color: white !important;
 }
 
-/* .agenda-navigation li:after {
+ .agenda-navigation li:after {
   pointer-events: none;
   position: absolute;
   text-align: center;
@@ -672,12 +672,6 @@ a .external {
 .case_study_box { 
   background: #ebbeff; /* light purple */
   border-left: solid 2px #510076; /* dark purple */
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
-
-
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
@@ -687,28 +681,25 @@ a .external {
 .explanatory { 
   background: #41c341; /* green */
   border-left: solid 2px #006400;  /* dark green */
-  margin: 10px;
-  /* font-size: 18px;
-  line-height: 145%; */
-  padding: 10px ;
+  border-radius: 2px;
+  margin: 20px 0 35px 0;
+  padding: 8px 35px 8px 40px;
 }
 
 .tips { 
   background: orange;
   border-left: solid 2px red; 
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
+  border-radius: 2px;
+  margin: 20px 0 35px 0;
+  padding: 8px 35px 8px 40px;
 }
 
 .reflection { 
   background: yellow;
   border-left: solid 2px orange; 
-  margin: 25px 0 35px 0;
-  font-size: 18px;
-  line-height: 145%;
-  padding: 20px ;
+  border-radius: 2px;
+  margin: 20px 0 35px 0;
+  padding: 8px 35px 8px 40px;
 }
 
 .box-title {
