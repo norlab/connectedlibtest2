@@ -19,7 +19,7 @@ Connected learning is an educational framework for creating engaging learning ex
 
 If these terms are unfamiliar to you, or if you need a refresher course on connected learning, review the Introduction to Connected Learning module before continuing. 
 
-> Libraries have been known for access to information — that’s where you get this stuff to read, primarily — but now there’s an iterative process between accessing information and creating new information. So libraries have become spaces for innovation and for making things, whether they’re websites, or podcasts, or even physical objects, like things you make with a 3D printer." -- Joan Lippincott[^1]
+> Libraries have been known for access to information — that’s where you get this stuff to read, primarily — but now there’s an iterative process between accessing information and creating new information. So libraries have become spaces for innovation and for making things, whether they’re websites, or podcasts, or even physical objects, like things you make with a 3D printer." -- Joan Lippincott<sup><a href="#1">1</a></sup>
 
 As Dr. Lippincott states in the quote above, libraries have been undergoing transformation from passive archives of information to active community centers for learning and creation. In The Future of Library Services For and With Teens: A Call to Action, an already-seminal work, the authors present a modern vision of teen library services that embrace diversity, build 21st century skills, and engage teens as active participants in their own learning. The 21st century library is no longer a “grocery store” of information, it is a “kitchen” full of tools and resources to help teens create new knowledge in the modern, digital-centric. 
 
@@ -70,5 +70,5 @@ Connected learning looks beyond traditional programming models and even beyond t
 
 
 
-[^1] Learning Spaces Collaboratory, 2018. [LSC Webinar Snapshot: Making the Case for 21st Century Libraries](https://youtu.be/e0FHQBJtcI8).
+<a name="1">[^1]</a> Learning Spaces Collaboratory, 2018. [LSC Webinar Snapshot: Making the Case for 21st Century Libraries](https://youtu.be/e0FHQBJtcI8).
 
