@@ -101,12 +101,11 @@ hr {
 }
 
 blockquote {
-  border-left: solid 2px #EF9AB6;
-  background: #d3d3d3;
-  margin: 25px 0 35px 0;
-  font-size: 16px;
-  line-height: 150%;
-  padding: 20px;
+  border-left: solid 2px #225c59; /* very dark teal */
+  background: #c7e8e2; /* very light teal */
+  border-radius: 2px;
+  margin: 20px 0 35px 0;
+  padding: 8px 35px 8px 40px;
 }
 
 blockquote a {
@@ -250,10 +249,11 @@ figure img {
 }
 
 /* Links inside the navbar */
-.clnavbar a, .clnavbar p {
+.clnavbar a {
   font-size: 16px;
   color: white;
   padding: 14px 16px;
+  text-decoration: underline;
 }
 
 .clnavbar .navlink {

@@ -24,7 +24,20 @@ subsection: overview
 	<li>Understand the diversity of connected learning program elements (<a href="section-3.html">Section 3: A Connected Learning Playbook</a>.)</li>
 </ul>
 
+Section 1 discusses the 21st century library and how connected learning fits in with one. Section 2 provides a high-level look at the process of developing a program, and Section 3 describes the variety of elements that can make up connected learning programs.
+
+<div class="reflection">
+	<p><span class="box-title">Learning aid: Programming KWL</span></p>
+	<p>Complete this worksheet by first describing your experience (if any) with creating programs for teens (include your experience with connected learning programs if you have any). Then create a list of what you already know (the K in KWL) about creating connected learning programs. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.</p>
+
+	<ul>
+		<li>What do you already know about connected learning programming?</li>
+		<li>What do you want to learn about connected learning programming?</li>
+		<li><i>What did you learn from this module about connected learning programming? (You will answer this question at the end of the module.)</i></li>
+	</ul>
+</div>
+
 {% include how_to_use.html %}
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.
-Ready to get started? Let’s begin with Section 1: The 21st Century Library.
+Ready to get started? Let’s begin with <a href="section-1.html">Section 1: The 21st Century Library</a>.
