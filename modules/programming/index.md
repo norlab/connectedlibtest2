@@ -3,11 +3,11 @@ layout: module
 title: Connected Learning Programming
 module_name: programming
 module_full_name: Connected Learning Programming
-section: Overview
+section: Module Overview
 subsection: overview
 ---
 
-<p class="made-by"><a href="https://creativecommons.org/licenses/by-sa/4.0">CC-BY-SA</a> by ConnectedLib</p>
+{% include license.html %}
 
 <p class="time">90 minutes</p>
 
@@ -29,7 +29,7 @@ Section 1 discusses the 21st century library and how connected learning fits in 
 <div class="reflection">
 	<p><span class="box-title">Learning aid: Programming KWL</span></p>
 	<p>Complete this worksheet by first describing your experience (if any) with creating programs for teens (include your experience with connected learning programs if you have any). Then create a list of what you already know (the K in KWL) about creating connected learning programs. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.</p>
-
+	<p class="word_download"><a href="docs/programming_kwl.docx">Download worksheet (DOCX)</a></p>
 	<ul>
 		<li>What do you already know about connected learning programming?</li>
 		<li>What do you want to learn about connected learning programming?</li>
