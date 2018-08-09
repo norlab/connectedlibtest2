@@ -48,7 +48,7 @@ To learn more about these issues and needs, read [**the full report**](http://ww
 
 ## YALSA’s Teen Programming Guidelines 
 
-In conjunction with the Future of Library Services, YALSA developed an extensive set of guidelines for teen programming that exemplifies the new way of approaching youth services, including the recommendation to develop programs that support connected learning. ConnectedLib complements many of the YALSA guidelines, including: 
+In conjunction with the Future of Library Services, YALSA developed an extensive set of [guidelines for teen programming](http://www.ala.org/yalsa/teen-programming-guidelines) that exemplifies the new way of approaching youth services, including the recommendation to develop programs that support connected learning. ConnectedLib complements many of the YALSA guidelines, including: 
 
 - create programming that reflects the needs and identities of all teens in the community (see the [Community Mapping](../communitymapping/index.html) module)
 - facilitate teen-led programs (see the [Mentoring](../mentoring/index.html) module)
