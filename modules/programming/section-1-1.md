@@ -70,5 +70,5 @@ Connected learning looks beyond traditional programming models and even beyond t
 
 
 
-<a name="1">[^1]</a> Learning Spaces Collaboratory, 2018. [LSC Webinar Snapshot: Making the Case for 21st Century Libraries](https://youtu.be/e0FHQBJtcI8).
+<a name="1">[1]</a> Learning Spaces Collaboratory, 2018. [LSC Webinar Snapshot: Making the Case for 21st Century Libraries](https://youtu.be/e0FHQBJtcI8).
 

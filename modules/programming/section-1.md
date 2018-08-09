@@ -15,7 +15,7 @@ subsection: one
 
 <p class="summary">In this section, we’ll talk about how connected learning will help you implement many of the principles outlined in <b><a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report">The Future of Library Services for and with Teens: A Call to Action</a></b> and YALSA’s <b><a href="http://www.ala.org/yalsa/teen-programming-guidelines">Teen Programming Guidelines</a></b>.</p> 
 
-### Learning Objectives For This Module
+### Learning Objectives For This Section
 
 <ul class="fancy">
 	<li>Describe a 21st century library</li>
