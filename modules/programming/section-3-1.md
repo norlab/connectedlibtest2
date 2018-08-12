@@ -15,7 +15,7 @@ We talked broadly about program outcomes in section 2, but in this section we wi
 
 Community-focused outcomes center around the teen engaging, connecting, and building relationships with their peers and with their broader community.  So-called “soft skills” like collaboration and communication are critical for 21st century workplaces and will improve teens’ lives in general.<sup><a name="2A" href="#2">2</a></sup> Some of these skills can be developed by teens “just” hanging out at the library. 
 
-“While many firms appreciate the flexibility, energy, and tech-savviness of younger workers, they identify academic and soft skills, dependability, and ability to fit into the workplace culture as both fundamental requirements and pervasive weaknesses among younger workers.” <sup><a name="3A" href="#3">3</a></sup>
+> “While many firms appreciate the flexibility, energy, and tech-savviness of younger workers, they identify academic and soft skills, dependability, and ability to fit into the workplace culture as both fundamental requirements and pervasive weaknesses among younger workers.” <sup><a name="3A" href="#3">3</a></sup>
 
 ## Creativity
 
