@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.1 Outcoes
+title: 3.1 Outcomes
 module_name: programming
 module_full_name: Connected Learning Programming
 section: 3. Elements of a Connected Learning Program
@@ -15,7 +15,7 @@ We talked broadly about program outcomes in section 2, but in this section we wi
 
 Community-focused outcomes center around the teen engaging, connecting, and building relationships with their peers and with their broader community.  So-called “soft skills” like collaboration and communication are critical for 21st century workplaces and will improve teens’ lives in general.<sup><a name="2A" href="#2">2</a></sup> Some of these skills can be developed by teens “just” hanging out at the library. 
 
-> “While many firms appreciate the flexibility, energy, and tech-savviness of younger workers, they identify academic and soft skills, dependability, and ability to fit into the workplace culture as both fundamental requirements and pervasive weaknesses among younger workers.”<sup><a name="3A" href="#3">3</a></sup>
+<blockquote>“While many firms appreciate the flexibility, energy, and tech-savviness of younger workers, they identify academic and soft skills, dependability, and ability to fit into the workplace culture as both fundamental requirements and pervasive weaknesses among younger workers.” <sup><a name="3A" href="#3">3</a></sup></blockquote>
 
 ##Creativity
 
@@ -32,7 +32,7 @@ An important part of connected learning is building the capacity to learn more i
 Finally, literacy outcomes result in teens having the ability to use various tools and platforms to create content and express themselves.
 
 
-<div class="case-study">
+<div class="case_study_box">
 	<p class="box-title">Nichole Pinkard on Digital Literacy </p>
 
  <p>Watch as Nichole Pinkard explains the importance of digital literacy and describes her work to promote it with the youth of Chicago [7:06, Edutopia].</p>
@@ -56,14 +56,11 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 
 - **Career readiness**. Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees.<sup><a name="6A" href="#6">6</a></sup> Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes. 
 
-
-
 <div class=“case_study_box”>
     <p class=“box-title”>Cities of Learning: Workforce development</p>
     <p>Experiential learning is an important part of building the well-rounded worker needed in the 21st century [6:05, Connected Learning Alliance].</p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/yLIm2bKpUDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
 
 <div class=“reflection”>
     <p class=“box-title”>Program design activity: Outcomes</p>
