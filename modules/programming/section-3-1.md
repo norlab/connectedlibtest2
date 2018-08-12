@@ -15,20 +15,20 @@ We talked broadly about program outcomes in section 2, but in this section we wi
 
 Community-focused outcomes center around the teen engaging, connecting, and building relationships with their peers and with their broader community.  So-called “soft skills” like collaboration and communication are critical for 21st century workplaces and will improve teens’ lives in general.<sup><a name="2A" href="#2">2</a></sup> Some of these skills can be developed by teens “just” hanging out at the library. 
 
-<blockquote>“While many firms appreciate the flexibility, energy, and tech-savviness of younger workers, they identify academic and soft skills, dependability, and ability to fit into the workplace culture as both fundamental requirements and pervasive weaknesses among younger workers.” <sup><a name="3A" href="#3">3</a></sup></blockquote>
+“While many firms appreciate the flexibility, energy, and tech-savviness of younger workers, they identify academic and soft skills, dependability, and ability to fit into the workplace culture as both fundamental requirements and pervasive weaknesses among younger workers.” <sup><a name="3A" href="#3">3</a></sup>
 
-##Creativity
+## Creativity
 
 Creativity outcomes result in teens’ learning how to express themselves, innovate, and solve problems. 
 
-##Digital Citizenship
+## Digital Citizenship
 
 Digital citizenship means that teens are able to use technology responsibly, ethically, and safely. 
 
-##Learning
+## Learning
 An important part of connected learning is building the capacity to learn more in the future. These outcomes focus on building the skills needed to successfully pursue learning independently. 
 
-##Literacies
+## Literacies
 Finally, literacy outcomes result in teens having the ability to use various tools and platforms to create content and express themselves.
 
 
