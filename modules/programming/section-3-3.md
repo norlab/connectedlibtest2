@@ -51,7 +51,7 @@ Connected learning encourages thinking outside of the library and making connect
 
 <p><b><i>“We only have a few meeting rooms. We can take the false walls down and turn it into one large room, but it's still not large enough and it's awkwardly shaped... Everything that we do with the kids has to be something that we can easily and quickly set up and then put away somewhere in a storage closet. -- Rural Western Library</i></b></p>
 
-Space restrictions are a common problem faced by youth librarians.<sup><a href="#1" name="1A">1</a></sup> A few of the librarians we spoke to had newly built or renovated teen spaces, but many spoke of the challenges of working with a teen space that was too small, not configured well, or simply nonexistent. Just as in the design of teen programming, though, teens should have a voice in how the teen space (or the space where the teens tend to gather, even if it is not a dedicated teen area). This will help ensure that all the unique needs of your teens will be met, and also give them a sense of ownership in the space.<sup><a href="#2" name="2A">2</a></sup> As you create your programs, consider how you can take advantage of your space’s strengths and compensate for its weaknesses. Don’t forget about your virtual spaces for teens.
+Space restrictions are a common problem faced by youth librarians.<sup><a href="#1" name="1A">1</a></sup> A few of the librarians we spoke to had newly built or renovated teen spaces, but many spoke of the challenges of working with a teen space that was too small, not configured well, or simply nonexistent. Just as in the design of teen programming, though, teens should have a voice in how the teen space (or the space where the teens tend to gather, even if it is not a dedicated teen area). This will help ensure that all the unique needs of your teens will be met, and also give them a sense of ownership in the space.<sup><a href="#2" name="2A">2</a></sup> As you create your programs, consider how you can take advantage of your space’s strengths and compensate for its weaknesses. Don’t forget about your virtual spaces for teens.<sup><a href="#3" name="3A">3</a></sup>
 <p class="box-title">YALSA ACADEMY: GREAT SPACES FOR TEENS</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HrJ79-tdKGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -69,3 +69,5 @@ Space restrictions are a common problem faced by youth librarians.<sup><a href="
 
 
 [<a name="2" href="#2A">2</a>] YALSA, 2015. [Teen Programming Guidelines](http://www.ala.org/yalsa/teen-programming-guidelines).
+
+[<a name="3" href="#3A">3</a>] Claire Valdivia and Mega Subramaniam, 2014. “Connected Learning in the Public Library: An Evaluative Framework for Developing Virtual Learning Spaces for Youth.” _Public Library Quarterly_ 33, p. 163–185. https://doi.org/10.1080/01616846.2014.910727.
