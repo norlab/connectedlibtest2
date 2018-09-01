@@ -1,0 +1,66 @@
+<!-- Sidebar Nav for the Introduction Module -->
+<aside>
+<div class="image">   
+    <a href="{{site.url}}{{site.baseurl}}"><img src="{{site.url}}{{site.baseurl}}/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p><b>{{ page.module_full_name }}</b></p>
+<p><b>{{ page.section }}</b></p>
+        
+        <div id="{{ page.subsection }}">
+
+        {% if page.section == "Overview" %} 
+
+                <ul class="agenda-navigation"> 
+                        <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/">Overview!</a></li>
+                </ul>
+        
+        {% elsif page.section == "1. What is Connected Learning?" %}
+                
+                <ul class="agenda-navigation">
+                        <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1/">Overview</a></li>
+                        <li class="one"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1-1/">1.1 Connected Learning Defined</a></li>
+                        <li class="two"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1-2/">1.2 Interests</a></li>
+                        <li class="three"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1-3/">1.3 Relationships</a></li>
+                        <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1-4/">1.4 Opportunity</a></li>
+                        <li class="five"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1-5/">1.5 Why ConnectedLib?</a></li>
+                        <li class="six"><a href="{{site.url}}{{site.baseurl}}/introduction/section-1-6/">Additional Resources</a></li>
+                </ul>
+
+          {% elsif page.section == "2. Connected Learning Design Principles" %}
+                
+                <ul class="agenda-navigation">
+                        <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/section-2/">Overview</a></li>
+                        <li class="one"><a href="{{site.url}}{{site.baseurl}}/introduction/section-2-1/">2.1 Production</a></li>
+                        <li class="two"><a href="{{site.url}}{{site.baseurl}}/introduction/section-2-2/">2.2 Multiple Pathways</a></li>
+                        <li class="three"><a href="{{site.url}}{{site.baseurl}}/introduction/section-2-3/">2.3 Shared Purpose</a></li>
+                        <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/section-2-4/">2.4 Sponsorship</a></li>
+                        <li class="five"><a href="{{site.url}}{{site.baseurl}}/introduction/section-2-5/">Additional Resources</a></li>
+                </ul>     
+
+        {% elsif page.section == "3. Why Your Library Needs Connected Learning" %}
+                
+            <ul class="agenda-navigation">
+                        <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/section-3/">Overview</a></li>
+                        <li class="one"><a href="{{site.url}}{{site.baseurl}}/introduction/section-3-1/">3.1 Promoting Equity</a></li>
+                        <li class="two"><a href="{{site.url}}{{site.baseurl}}/introduction/section-3-2/">3.2 Building Capacity to Learn</a></li>
+                        <li class="three"><a href="{{site.url}}{{site.baseurl}}/introduction/section-3-3/">3.3 Building Community and Connections</a></li>
+                        <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/section-3-4/">Additional Resources</a></li>
+                </ul>           
+          
+          {% elsif page.section == "4. A Connected Learning Plan For Your Library" %}
+                
+            <ul class="agenda-navigation">
+                        <li class="overview"><a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Overview</a></li>
+                        <li class="one"><a href="{{site.url}}{{site.baseurl}}/introduction/section-4-1/">4.1 Your Library</a></li>
+                        <li class="two"><a href="{{site.url}}{{site.baseurl}}/introduction/section-4-2/">4.2 Current Youth Services</a></li>
+                        <li class="three"><a href="{{site.url}}{{site.baseurl}}/introduction/section-4-3/">4.3 Connected Learning Goals</a></li>
+                        <li class="four"><a href="{{site.url}}{{site.baseurl}}/introduction/section-4-4/">4.4 Wrapping Up</a></li>
+                </ul> 
+
+
+
+
+           {% endif %}
+        </div>
+      </aside>
