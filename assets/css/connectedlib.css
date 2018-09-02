@@ -755,8 +755,9 @@ a .external {
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
   background-image: url(../img/learningExerciseIcon.png);
-  background-size: 18px;
-  background-position: 10px center;
+  /* Learning by jai from the Noun Project, https://thenounproject.com/search/?q=learning&i=1236442 */
+  background-size: 20px;
+  background-position: 10px top;
   background-repeat: no-repeat;
 }
 
