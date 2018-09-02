@@ -73,14 +73,13 @@ h1 {
 }
 
 hr {
-  background: #d84060;
+  color: #000;
   width: 50%;
-  height: 2px;
-  border: none;
+  height: 3px;
+  border: 1px;
   margin: 35px 0 45px 0;
   position: relative;
   left: 25%;
-  opacity: .3;
 }
 
 .made-by {
