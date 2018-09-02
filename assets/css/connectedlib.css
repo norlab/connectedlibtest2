@@ -754,6 +754,10 @@ a .external {
   border-radius: 2px;
   margin: 20px 0 35px 0;
   padding: 8px 35px 8px 40px;
+  background-image: url(../img/learningExerciseIcon.png);
+  background-size: 18px;
+  background-position: 10px center;
+  background-repeat: no-repeat;
 }
 
 .box-title {
