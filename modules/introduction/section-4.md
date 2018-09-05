@@ -16,3 +16,5 @@ Now that you’ve had an overview of connected learning, what does this mean for
 </ul>
 
 Note: the term “youth services” and “youth services department” are used throughout this section. Your department may have a different name, or your library may have no youth services department at all, and you are simply “the one who works with kids.” Whatever the situation, feel free to adjust the wording and the structure of the worksheet to fit your particular circumstances.
+
+[Download Worksheet (DOCX)](docs/Intro_CLPlan.docx)
