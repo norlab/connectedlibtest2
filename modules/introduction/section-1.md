@@ -17,6 +17,6 @@ Connected learning is an educational framework that connects interests, relation
 
 <div class="reflection"><p><b>LEARNING AID: CONNECTED LEARNING KWL</b></p>
 <p>Complete this worksheet by first describing your experience (if any) with connected learning. Then create a list of what you already know (the K in KWL) about connected learning. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.</p>
-<ul><li>[insert worksheet link here]</li></ul>
+<ul><li><a href="docs/Intro_KWL.docx">Download Worksheet (DOCX)</a></li></ul>
 </div>
 
