@@ -4,7 +4,7 @@
 title: "ConnectedLib"
 description: "Helping librarians use digital media with teens."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-url: "https://infobyway.github.io"
+url: "https://norlab.github.io"
 baseurl: "/connectedlibtest2" #important: start with /
 
 # Build settings
