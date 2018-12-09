@@ -181,8 +181,8 @@ optgroup {
   font-weight: bold;
 }
 table {
-  border-spacing: 5px 5px;
-  border-collapse: collapse;
+  border-spacing: 2px 20px;
+  border-collapse: inherit;
 }
 td,
 th {
